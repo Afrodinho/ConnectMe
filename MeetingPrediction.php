@@ -47,17 +47,10 @@
         </form>
     
 
-        <form method="post">
+        <form action ="WouldYouRather.php"method="post">
           <input type="submit" name="WYR"
             value="Would You Rather?"/>
         </form>
-      
-
-        <form action = "tictactoe.php" method="post">
-            <input type="submit" name="TIC"
-              value="Tic-Tac-Toe"/>
-        </form>
-   
         
 
     </div>
