@@ -71,14 +71,14 @@
           //require("WouldYouRather.php")
       }
 
-        if(key_exists('TIC', $_POST)) {
-          TIC();
-        }
-        function TIC() {
-          // echo "You are playing: Tic Tac Toe";
-          //require ("ttt.php");
+      //   if(key_exists('TIC', $_POST)) {
+      //     TIC();
+      //   }
+      //   function TIC() {
+      //     // echo "You are playing: Tic Tac Toe";
+      //     //require ("ttt.php");
         
-      }
+      // }
 
       ?>
 
@@ -95,10 +95,10 @@
             value="Would You Rather?"/>
         </form>
       
-
+<!-- 
         <form action = "ttt.php" method="post">
             <input type="submit" name="TIC"
               value="Tic-Tac-Toe"/>
-        </form>
+        </form> -->
     </h3>
 </html>

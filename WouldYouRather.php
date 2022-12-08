@@ -47,10 +47,17 @@
         </form>
     
 
-        <form action ="WouldYouRather.php"method="post">
+        <form method="post">
           <input type="submit" name="WYR"
             value="Would You Rather?"/>
         </form>
+      
+<!-- 
+        <form action = "tictactoe.php" method="post">
+            <input type="submit" name="TIC"
+              value="Tic-Tac-Toe"/>
+        </form> -->
+   
         
 
     </div>
@@ -71,9 +78,7 @@
     </script>
 
     </body>
-
-
-<?php
+    <?php
     session_start();
     if(empty($_SESSION)) 
 ?>
@@ -92,7 +97,7 @@
 <!-- This is title of page and table... I don't know if this is necessary. -->
 <html>
     <head>
-        <title> Meeting Prediction </title>
+        <title>Would You Rather?</title>
         <link rel="stylesheet" href="style.css">
     </head>
 <body>
@@ -107,12 +112,12 @@
     <br/> -->
 
     <!-- BUTTONS CODE FOR THE GAME -->
-    <form action="MeetingPrediction.php" method="post">
-        <label for ="Prediction">How Will Your Meeting Go?</label>
-            <input type= "Submit" name="Generate" value="Generate Prediction">
+    <form action="WouldYouRather.php" method="post">
+        <label for ="WYR">Click Here to start game?</label>
+            <input type= "Submit" name="Begin" value="Start Game">
     </form>
 
-    <form action="MeetingPrediction.php" method="post">
+    <form action="WouldYouRather.php" method="post">
         <input type= "submit" name ="reset" value="Reset">
     </form>
     
@@ -124,7 +129,7 @@
         {
             reset_game();
         }
-        elseif(!empty($_POST['Generate']))
+        elseif(!empty($_POST['Begin']))
         {
             generate();
         }
@@ -136,12 +141,27 @@
 // THIS IS THE RANDOM GENERATOR CODE FOR THE GAME
 function generate()
 {
-    echo '<h3>Here is Your Meeting Prediction:</h3>';
-    $file= "MP.txt";
-    $MP =file($file);
+    echo '<h2>Here is Your Scenario</h2>';
+    echo '<h3>Would You Rather...</h3>';
+    $file= "WYR.txt";
+    $WYR =file($file);
     srand((double)microtime()*1000000);
-    $randomMP = rand(0, count($MP)-1);
-    echo $MP[$randomMP];
+    $randomWYR = rand(0, count($WYR)-1);
+    echo $WYR[$randomWYR];
+
+    ?>
+
+    <p>Select Your Answer:</p>
+<form>
+    <input type ="radio" id="A" name="OptionA" value="A">
+    <label for="A">A</label><br>
+    <input type ="radio" id="B" name="OptionB" value="B">
+    <label for="B">B</label><br>
+    <form action="WouldYouRather.php" method="post">
+        <input type= "submit" name ="submit" value="Submit">
+    </form>
+</form>
+<?php
 }
 
 // THIS RESETS THE GAME AND PAGE
@@ -153,8 +173,3 @@ function reset_game()
 
 </body>
 </html>
-
-    
-
-            
-
