@@ -32,8 +32,8 @@ Has experience with:
 ### Jared Freed
 
 Senior (Information Techonology).
-    - Minor in Art
-    - Minor in Business 
+ - Minor in Art
+ - Minor in Business 
 Has experience with:
 - Web Languages (HTML, JavaScript, CSS)
 - Python, C#, Swift, SQL, MongoDB
