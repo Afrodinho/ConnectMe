@@ -1,37 +1,91 @@
 <!DOCTYPE html>
 
+<!-- TO-DO: Implement redirect so when the user is logged in and goes to the site, they automatically
+        are taken to their dashboard right away. -->
 <?php
-    require_once('load.php');
-    if ( $logged == false ) {
-        // Built redirect
-        $url = "http" . ((!empty($_SERVER['HTTPS'])) ? "s" : "") . "://".$_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI'];
-        $redirect = str_replace('index.php', 'LoginPage.php', $url);
+    // require_once('load.php');
+    // $logged = $j->checkLogin();
+    // if ( $logged == true ) {
+    //     // Build redirect
+    //     $url = "http" . ((!empty($_SERVER['HTTPS'])) ? "s" : "") . "://".$_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI'];
+    //     $redirect = str_replace('index.php', 'dashboard.php', $url);
 
-        // Redirect to login page
-        header("Location: $redirect?msg=login");
-        exit;
-    } else {
-        // Grab authorization cookie array
-        $cookie = $_COOKIE['userlogauth'];
+    //     // // Redirect to login page
+    //     header("Location: $redirect?msg=loggedin");
+    //     exit;
+    // } else {
+    //     global $jdb;
+    //     $jdb = new UsersDatabase;
+
+    //     // Grab authorization cookie array
+    //     $cookie = $_COOKIE['userlogauth'];
     
-        // Set user and auth variables
-        $user = $cookie['user'];
-        $authID = $cookie['authID'];
+    //     // Set user and auth variables
+    //     $user = $cookie['user'];
+    //     $authID = $cookie['authID'];
 
-        // Query database for selected user
-        $table = 'User';
-        $sql = "SELECT * FROM $table WHERE Username = '" . $user . '"';
-        $results = $jdb->select($sql);
 
-        // Kill script if submitted username doesn't exist.
-        if (!$results) {
-            die('That user does not exist!');
-        }
+    //     $dsn = 'mysql:dbname=connhkab_users;host=127.0.0.1';
+    //     $link = new PDO($dsn, DB_USER, DB_PASS);
 
-        // $results = mysql_fetch_assoc( $results );
-        $results = $jdb->fetchAll(PDO::FETCH_KEY_PAIR);
-    }
+    //     // Query database for selected user
+    //     $table = 'User';
+
+    //     $sql = "SELECT * FROM $table WHERE Username = '" . $user . "'";
+    //     $result = $jdb->select($link, $sql);
+
+    //     // Kill script if submitted username doesn't exist.
+    //     if (!$result) {
+    //         die('That user does not exist!');
+    //     }
+    // }
 ?>
+
+<!-- <?php
+    // require_once('load.php');
+    // $logged = $j->checkLogin();
+    // $converted_logged = $logged ? 'true' : 'false';
+    // // echo '<script>console.log("AUTH pass:' . $converted_logged . '");</script>';
+    // if ( $logged == false ) {
+    //     // Built redirect
+    //     $url = "http" . ((!empty($_SERVER['HTTPS'])) ? "s" : "") . "://".$_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI'];
+    //     $redirect = str_replace('index.php', 'LoginPage.php', $url);
+
+    //     // // Redirect to login page
+    //     header("Location: $redirect?msg=login");
+    //     exit;
+    // } else {
+    //     global $jdb;
+    //     $jdb = new UsersDatabase;
+
+    //     // Grab authorization cookie array
+    //     $cookie = $_COOKIE['userlogauth'];
+    
+    //     // Set user and auth variables
+    //     $user = $cookie['user'];
+    //     $authID = $cookie['authID'];
+
+
+    //     $dsn = 'mysql:dbname=connhkab_users;host=127.0.0.1';
+    //     $link = new PDO($dsn, DB_USER, DB_PASS);
+
+    //     // Query database for selected user
+    //     $table = 'User';
+    //     // $sql = "SELECT * FROM $table WHERE Username = '" . $submittedname . "'";
+    //     // $result = $jdb->select($link, $sql);
+    //     echo '<script>console.log("User in cookie: ' . $user . '");</script>';
+    //     $sql = "SELECT * FROM $table WHERE Username = '" . $user . "'";
+    //     $result = $jdb->select($link, $sql);
+
+    //     // Kill script if submitted username doesn't exist.
+    //     if (!$result) {
+    //         die('That user does not exist!');
+    //     }
+
+    //     // $results = mysql_fetch_assoc( $results );
+    //     // $result = $jdb->fetchAll(PDO::FETCH_KEY_PAIR);
+    // }
+?> -->
 
 <html lang="en-US">
 
@@ -53,7 +107,7 @@
             <nav class="nav" id="nav-menu">
                 <ul class="nav_list">
                     <li class="nav_item"><a href="index.php" class="nav_link">Home</a></li>
-                    <li class="nav_item"><a href="about.html" class="nav_link">About Us</a></li>
+                    <li class="nav_item"><a href="about.php" class="nav_link">About Us</a></li>
                     <li class="nav_item"><a href="SignUp.php" class="nav_link">Sign Up</a></li>
                     <li class="nav_item"><a href="LoginPage.php" class="nav_link" id="login">Log In</a></li>
                 </ul>
@@ -70,7 +124,7 @@
                 <nav class="mobile-dropdown" id="nav_menu">
             <ul class="nav_list">
                     <li class="nav_item"><a href="index.php" class="nav_link">Home</a></li>
-                    <li class="nav_item"><a href="about.html" class="nav_link">About Us</a></li>
+                    <li class="nav_item"><a href="about.php" class="nav_link">About Us</a></li>
                     <li class="nav_item"><a href="SignUp.php" class="nav_link">Sign Up</a></li>
                     <li class="nav_item"><a href="LoginPage.php" class="nav_link">Log In</a></li>
                 </ul>

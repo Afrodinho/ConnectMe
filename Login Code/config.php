@@ -15,15 +15,26 @@ define('DB_PASS', 'k,_@+v2wR#eS');
 //----------------------------------
 // Salt Info
 
-/*
+// Site key
+/**
+ * Abby's Note:
+ * The tutorial for the login functionality glossed over exactly how to obtain and implement a site key.
+ * I followed a few articles on site keys, and from what I could tell the main way to obtain one is through
+ * Google reCAPTCHA. After obtaining the Site and Secret Keys though, I had difficulty understanding exactly
+ * how to fully connect them to our application. Since the tutorial is only using the site key for salting,
+ * I have not integrated the full reCAPTCHA validation yet.
+ * Sources:
+ *  - https://www.namecheap.com/support/knowledgebase/article.aspx/10345/2194/how-to-install-captcha-on-your-website/
+ *  - https://developers.google.com/recaptcha/intro
+ *      - And other pages of Google documentation branching off from the previous two links.
+ *  - https://phppot.com/php/how-to-get-google-recaptcha-site-and-secret-key/
+ */
+define('SITE_KEY', '6Ld46mIjAAAAANaVKD09vWTEvbZyww9QGC5PmfxA');
 
-    TO-DO: get Site Key, Nonce SALT, and Auth SALT for security purposes.
-    
-    As of now (12/2/2022), I tried looking into salting and how to get a Site Key; while I understand
-    the general principles and why it'd be good to implement, I'm not understanding how to set it up
-    with our site and am going to continue without it for now.
+// NONCE salt
+define('NONCE_SALT', '/q]Dw1X18+|;$:_U2R5x777S0 &%/JMFVk0c\xO=)Gs+HBnw#a');
 
+// AUTH salt
+define('AUTH_SALT', 'kF{e+<,;M_H#0=q*o/1f*LU)aGh=P6,9TIbrDM40Y`~#_HLY^I');
 
-
-*/
 ?>

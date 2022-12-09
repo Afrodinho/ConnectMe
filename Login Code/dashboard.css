@@ -1,0 +1,54 @@
+body{
+    overflow: hidden;
+}
+
+.logo{ 
+    transition: 1s;
+}
+
+.dashboard{
+    width: 275px;
+    height: 1000px;
+    background-color: #303338;
+    z-index: -10;
+    top: 0;
+    padding-top: 30px;
+    padding-left: 30px;
+    
+    transition: 0.5s;
+}
+
+.links{
+    padding-top: 100px;
+    transition: 0.5s;
+}
+
+.link{
+    color: #f4f4f4;
+    padding: 0;
+    position: relative;
+    display: block;
+    font-size: 30px;
+    padding-bottom: 40px;
+    
+}
+
+@media (max-width: 1000px){
+    .dashboard{
+        width: 0%;
+        padding-left: 0%;
+        transition: 0.5s;
+    }
+    
+    .links{
+        margin-left: -200px;
+        transition: 0.5s;
+    }
+    
+    .logo{
+        margin-left: -1000px;
+        transition: 1s;
+    }
+    
+    
+}

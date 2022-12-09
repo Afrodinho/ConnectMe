@@ -2,7 +2,6 @@
 // Database class
 if(!class_exists('UsersDatabase')){
     class UsersDatabase {
-
         /**
          * Connects to database server and selects a database
          * 
@@ -33,6 +32,7 @@ if(!class_exists('UsersDatabase')){
          */
 
         function connect() {
+            echo '<script>console.log("Connecting to database...");</script>';
             /**
              * Abby's Note: all of the mysql functions implemented from the
              * tutorial I followed have been deprecated and removed by the
@@ -62,6 +62,7 @@ if(!class_exists('UsersDatabase')){
             try {
                 $link = new PDO($dsn, DB_USER, DB_PASS);
                 $link->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+                echo '<script>console.log("Success! Connection established");</script>';
             } catch ( PDOException $Exception ) {
                 echo "Could not connect: " . $e->getMessage();
                 exit;
@@ -70,9 +71,9 @@ if(!class_exists('UsersDatabase')){
             //TO-DO: Error handling/printing code below is likely redundant;
             // determine if it's safe to remove at a later time.
             // if (!$link) {
-            $link->setAttribute(PDO::ATTR_EMULATE_PREPARES,false);
-            $stmt = $link->prepare($sql);
-            $stmt->execute($array) or die('Could not connect: ' . print_r($stmt->errorInfo(), true));
+            // $link->setAttribute(PDO::ATTR_EMULATE_PREPARES,false);
+            // $stmt = $link->prepare($sql);
+            // $stmt->execute($array) or die('Could not connect: ' . print_r($stmt->errorInfo(), true));
             // }
 
             // $db_selected = mysql_select_db(DB_NAME, $link);  // Deprecated. DSN includes database being selected.
@@ -89,7 +90,8 @@ if(!class_exists('UsersDatabase')){
          * @return array $array The cleaned array
          */
         function clean($array) {
-            return array_map('mysql_real_escape_string', $array);
+            
+            // return array_map('mysql_real_escape_string', $array);
         }
 
         /**
@@ -102,7 +104,8 @@ if(!class_exists('UsersDatabase')){
          * @return string $secureHash The hashed password
          */
         function hash_password($password, $nonce) {
-            $secureHash = hash_hmac('sha512', $password . $nonce, SITE_KEY);    // NEED TO FIGURE OUT SITE KEY
+            echo '<script>console.log("Hashing the password...");</script>';
+            $secureHash = hash_hmac('sha512', $password . $nonce, SITE_KEY);
 
             return $secureHash;
         }
@@ -116,12 +119,14 @@ if(!class_exists('UsersDatabase')){
          * @param array $values An array of the values to be inserted
          */
         function insert($link, $table, $fields, $values) {
+            echo '<script>console.log("Inserting into database...");</script>';
             $link->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION); // This may be redundant, should be evaluated in future refactoring
             $fields = implode(", ", $fields);
             $values = implode("', '", $values);
+            echo '<script>console.log("VALUES:' . print_r($values) . '");</script>';
             // Code below may not be in alignment with PDO and resistance to query injection with the
             // way values are assigned... Should be re-evaluated in future refactoring.
-            $sql="INSERT INTO $table (id, $fields) VALUES ('', '$values')"; 
+            $sql="INSERT INTO $table (UserID, $fields) VALUES ('', '$values')"; 
 
             // if (!mysql_query($sql)) {
             if (!$link->exec($sql)) {
@@ -148,19 +153,17 @@ if(!class_exists('UsersDatabase')){
          * @param array $where The field(s) to search a specific value for
          * @param array $equals The value being searched for
          */
-        function select($sql, $query) {
+        function select($link, $sql) {
             // $results = mysql_query($sql);
             try {
                 $link->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-                $stmt = $link->prepare($query);
+                $stmt = $link->prepare($sql);
                 $stmt->execute();
-
-                $results = $stmt->setFetchMode(PDO::FETCH_ASSOC);
+                $result = $stmt->fetch(PDO::FETCH_ASSOC);
             } catch(PDOException $e) {
-                echo "Error: " . $e->getMessage();
+                // echo "Error: " . $e->getMessage();
             }
-
-            return $results;
+            return $result;
         }
 
     }

@@ -2055,12 +2055,12 @@ var Application = function() {
 
 					// In some browsers (Chrome & Safari) this error occurs at send: 
 					// 
-					// Chrome - Access to XMLHttpRequest at 'file:///index.html' from origin 'null' 
+					// Chrome - Access to XMLHttpRequest at 'file:///index.php' from origin 'null' 
 					// has been blocked by CORS policy: 
 					// Cross origin requests are only supported for protocol schemes: 
 					// http, data, chrome, chrome-extension, https.
 					// 
-					// Safari - XMLHttpRequest cannot load file:///Users/user/Public/index.html. Cross origin requests are only supported for HTTP.
+					// Safari - XMLHttpRequest cannot load file:///Users/user/Public/index.php. Cross origin requests are only supported for HTTP.
 					// 
 					// Solution is to run a local server, set local permissions or test in another browser
 					self.refreshRequest.send(null);

@@ -1,0 +1,1180 @@
+[07-Dec-2022 00:55:14 America/New_York] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/connhkab/public_html/testing/config.php on line 10
+[07-Dec-2022 03:00:12 America/New_York] PHP Warning:  require_once(/home/connhkab/public_html/testing/j_includes/db.php): failed to open stream: No such file or directory in /home/connhkab/public_html/testing/load.php on line 4
+[07-Dec-2022 03:00:12 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/connhkab/public_html/testing/j_includes/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/connhkab/public_html/testing/load.php on line 4
+[07-Dec-2022 18:51:57 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[07-Dec-2022 18:51:58 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[07-Dec-2022 18:51:58 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 28
+[07-Dec-2022 18:51:58 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 33
+[07-Dec-2022 18:52:06 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[07-Dec-2022 18:52:06 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 28
+[07-Dec-2022 18:52:06 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 33
+[07-Dec-2022 18:52:06 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 44
+[07-Dec-2022 18:52:15 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[07-Dec-2022 18:52:15 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 28
+[07-Dec-2022 18:52:15 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 33
+[07-Dec-2022 18:52:15 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 44
+[07-Dec-2022 18:59:09 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[07-Dec-2022 18:59:09 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 28
+[07-Dec-2022 18:59:09 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 33
+[07-Dec-2022 18:59:09 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 44
+[07-Dec-2022 18:59:14 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[07-Dec-2022 18:59:14 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 28
+[07-Dec-2022 18:59:14 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 33
+[07-Dec-2022 18:59:14 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 44
+[07-Dec-2022 19:03:52 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[07-Dec-2022 19:03:52 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 28
+[07-Dec-2022 19:03:52 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 33
+[07-Dec-2022 19:03:52 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 44
+[07-Dec-2022 19:06:58 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[07-Dec-2022 19:06:59 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[07-Dec-2022 19:06:59 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 28
+[07-Dec-2022 19:06:59 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 33
+[07-Dec-2022 20:07:43 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[07-Dec-2022 20:07:43 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[07-Dec-2022 20:07:43 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[07-Dec-2022 20:31:29 America/New_York] PHP Parse error:  syntax error, unexpected '$current' (T_VARIABLE), expecting ';' or ',' in /home/connhkab/public_html/testing/class.php on line 14
+[07-Dec-2022 20:31:34 America/New_York] PHP Parse error:  syntax error, unexpected '$current' (T_VARIABLE), expecting ';' or ',' in /home/connhkab/public_html/testing/class.php on line 14
+[07-Dec-2022 20:43:19 America/New_York] PHP Notice:  Undefined index: HTTP_REFERRER in /home/connhkab/public_html/testing/class.php on line 17
+[07-Dec-2022 20:45:10 America/New_York] PHP Notice:  Array to string conversion in /home/connhkab/public_html/testing/class.php on line 24
+[07-Dec-2022 21:32:04 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[07-Dec-2022 21:32:04 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[07-Dec-2022 21:32:04 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[07-Dec-2022 21:32:04 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[07-Dec-2022 21:37:16 America/New_York] PHP Notice:  Undefined index: HTTP_REFERRER in /home/connhkab/public_html/testing/class.php on line 17
+[07-Dec-2022 21:46:20 America/New_York] PHP Notice:  Undefined index: username in /home/connhkab/public_html/testing/class.php on line 21
+[07-Dec-2022 21:46:29 America/New_York] PHP Notice:  Undefined index: username in /home/connhkab/public_html/testing/class.php on line 21
+[07-Dec-2022 21:57:00 America/New_York] PHP Fatal error:  Uncaught Error: Object of class Users could not be converted to string in /home/connhkab/public_html/testing/SignUp.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/connhkab/public_html/testing/SignUp.php on line 5
+[07-Dec-2022 21:57:56 America/New_York] PHP Fatal error:  Uncaught Error: Object of class Users could not be converted to string in /home/connhkab/public_html/testing/SignUp.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/connhkab/public_html/testing/SignUp.php on line 6
+[07-Dec-2022 21:59:44 America/New_York] PHP Fatal error:  Uncaught Error: Object of class Users could not be converted to string in /home/connhkab/public_html/testing/SignUp.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/connhkab/public_html/testing/SignUp.php on line 6
+[07-Dec-2022 22:02:02 America/New_York] PHP Fatal error:  Uncaught Error: Object of class Users could not be converted to string in /home/connhkab/public_html/testing/SignUp.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/connhkab/public_html/testing/SignUp.php on line 6
+[07-Dec-2022 22:29:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function clean() on null in /home/connhkab/public_html/testing/class.php:35
+Stack trace:
+#0 /home/connhkab/public_html/testing/SignUp.php(5): Users->register('login.php')
+#1 {main}
+  thrown in /home/connhkab/public_html/testing/class.php on line 35
+[07-Dec-2022 23:04:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function clean() on null in /home/connhkab/public_html/testing/class.php:36
+Stack trace:
+#0 /home/connhkab/public_html/testing/SignUp.php(5): Users->register('login.php')
+#1 {main}
+  thrown in /home/connhkab/public_html/testing/class.php on line 36
+[07-Dec-2022 23:12:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function clean() on null in /home/connhkab/public_html/testing/class.php:36
+Stack trace:
+#0 /home/connhkab/public_html/testing/SignUp.php(5): Users->register('login.php')
+#1 {main}
+  thrown in /home/connhkab/public_html/testing/class.php on line 36
+[07-Dec-2022 23:14:27 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) or const (T_CONST) in /home/connhkab/public_html/testing/db.php on line 7
+[07-Dec-2022 23:14:32 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) or const (T_CONST) in /home/connhkab/public_html/testing/db.php on line 7
+[07-Dec-2022 23:15:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function clean() on null in /home/connhkab/public_html/testing/class.php:36
+Stack trace:
+#0 /home/connhkab/public_html/testing/SignUp.php(5): Users->register('login.php')
+#1 {main}
+  thrown in /home/connhkab/public_html/testing/class.php on line 36
+[07-Dec-2022 23:53:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function clean() on null in /home/connhkab/public_html/testing/class.php:36
+Stack trace:
+#0 /home/connhkab/public_html/testing/SignUp.php(5): Users->register('login.php')
+#1 {main}
+  thrown in /home/connhkab/public_html/testing/class.php on line 36
+[08-Dec-2022 00:03:15 America/New_York] PHP Notice:  Undefined variable: sql in /home/connhkab/public_html/testing/db.php on line 78
+[08-Dec-2022 00:03:15 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/connhkab/public_html/testing/db.php:78
+Stack trace:
+#0 /home/connhkab/public_html/testing/db.php(78): PDO->prepare('')
+#1 /home/connhkab/public_html/testing/db.php(29): UsersDatabase->connect()
+#2 /home/connhkab/public_html/testing/class.php(10): UsersDatabase->__construct()
+#3 /home/connhkab/public_html/testing/SignUp.php(5): Users->register('login.php')
+#4 {main}
+  thrown in /home/connhkab/public_html/testing/db.php on line 78
+[08-Dec-2022 00:12:33 America/New_York] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'mysql_real_escape_string' not found or invalid function name in /home/connhkab/public_html/testing/db.php on line 97
+[08-Dec-2022 00:12:33 America/New_York] PHP Notice:  Undefined index: password in /home/connhkab/public_html/testing/class.php on line 41
+[08-Dec-2022 00:12:33 America/New_York] PHP Notice:  Undefined index: firstname in /home/connhkab/public_html/testing/class.php on line 42
+[08-Dec-2022 00:12:33 America/New_York] PHP Notice:  Undefined index: lastname in /home/connhkab/public_html/testing/class.php on line 43
+[08-Dec-2022 00:12:33 America/New_York] PHP Notice:  Undefined index: date in /home/connhkab/public_html/testing/class.php on line 44
+[08-Dec-2022 00:12:33 America/New_York] PHP Notice:  Undefined index: email in /home/connhkab/public_html/testing/class.php on line 45
+[08-Dec-2022 00:12:33 America/New_York] PHP Notice:  Undefined variable: user in /home/connhkab/public_html/testing/class.php on line 59
+[08-Dec-2022 00:12:33 America/New_York] PHP Notice:  Undefined variable: link in /home/connhkab/public_html/testing/class.php on line 62
+[08-Dec-2022 00:12:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setAttribute() on null in /home/connhkab/public_html/testing/db.php:126
+Stack trace:
+#0 /home/connhkab/public_html/testing/class.php(62): UsersDatabase->insert(NULL, 'User', Array, Array)
+#1 /home/connhkab/public_html/testing/SignUp.php(5): Users->register('login.php')
+#2 {main}
+  thrown in /home/connhkab/public_html/testing/db.php on line 126
+[08-Dec-2022 00:23:06 America/New_York] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'mysql_real_escape_string' not found or invalid function name in /home/connhkab/public_html/testing/db.php on line 94
+[08-Dec-2022 00:23:06 America/New_York] PHP Notice:  Undefined index: password in /home/connhkab/public_html/testing/class.php on line 38
+[08-Dec-2022 00:23:06 America/New_York] PHP Notice:  Undefined index: firstname in /home/connhkab/public_html/testing/class.php on line 39
+[08-Dec-2022 00:23:06 America/New_York] PHP Notice:  Undefined index: lastname in /home/connhkab/public_html/testing/class.php on line 40
+[08-Dec-2022 00:23:06 America/New_York] PHP Notice:  Undefined index: date in /home/connhkab/public_html/testing/class.php on line 41
+[08-Dec-2022 00:23:06 America/New_York] PHP Notice:  Undefined index: email in /home/connhkab/public_html/testing/class.php on line 42
+[08-Dec-2022 00:23:06 America/New_York] PHP Notice:  Undefined variable: user in /home/connhkab/public_html/testing/class.php on line 56
+[08-Dec-2022 00:23:06 America/New_York] PHP Notice:  Undefined variable: link in /home/connhkab/public_html/testing/class.php on line 59
+[08-Dec-2022 00:23:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setAttribute() on null in /home/connhkab/public_html/testing/db.php:123
+Stack trace:
+#0 /home/connhkab/public_html/testing/class.php(59): UsersDatabase->insert(NULL, 'User', Array, Array)
+#1 /home/connhkab/public_html/testing/SignUp.php(5): Users->register('login.php')
+#2 {main}
+  thrown in /home/connhkab/public_html/testing/db.php on line 123
+[08-Dec-2022 00:36:46 America/New_York] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'mysql_real_escape_string' not found or invalid function name in /home/connhkab/public_html/testing/db.php on line 94
+[08-Dec-2022 00:36:46 America/New_York] PHP Notice:  Undefined index: password in /home/connhkab/public_html/testing/class.php on line 37
+[08-Dec-2022 00:36:46 America/New_York] PHP Notice:  Undefined index: firstname in /home/connhkab/public_html/testing/class.php on line 38
+[08-Dec-2022 00:36:46 America/New_York] PHP Notice:  Undefined index: lastname in /home/connhkab/public_html/testing/class.php on line 39
+[08-Dec-2022 00:36:46 America/New_York] PHP Notice:  Undefined index: date in /home/connhkab/public_html/testing/class.php on line 40
+[08-Dec-2022 00:36:46 America/New_York] PHP Notice:  Undefined index: email in /home/connhkab/public_html/testing/class.php on line 41
+[08-Dec-2022 00:36:46 America/New_York] PHP Notice:  Undefined variable: user in /home/connhkab/public_html/testing/class.php on line 55
+[08-Dec-2022 00:36:46 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'field list' in /home/connhkab/public_html/testing/db.php:131
+Stack trace:
+#0 /home/connhkab/public_html/testing/db.php(131): PDO->exec('INSERT INTO Use...')
+#1 /home/connhkab/public_html/testing/class.php(60): UsersDatabase->insert(Object(PDO), 'User', 'Username, Passw...', 'user', '1884bf2...')
+#2 /home/connhkab/public_html/testing/SignUp.php(5): Users->register('login.php')
+#3 {main}
+  thrown in /home/connhkab/public_html/testing/db.php on line 131
+[08-Dec-2022 00:43:20 America/New_York] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'mysql_real_escape_string' not found or invalid function name in /home/connhkab/public_html/testing/db.php on line 94
+[08-Dec-2022 00:43:20 America/New_York] PHP Notice:  Undefined index: password in /home/connhkab/public_html/testing/class.php on line 37
+[08-Dec-2022 00:43:20 America/New_York] PHP Notice:  Undefined index: firstname in /home/connhkab/public_html/testing/class.php on line 38
+[08-Dec-2022 00:43:20 America/New_York] PHP Notice:  Undefined index: lastname in /home/connhkab/public_html/testing/class.php on line 39
+[08-Dec-2022 00:43:20 America/New_York] PHP Notice:  Undefined index: date in /home/connhkab/public_html/testing/class.php on line 40
+[08-Dec-2022 00:43:20 America/New_York] PHP Notice:  Undefined index: email in /home/connhkab/public_html/testing/class.php on line 41
+[08-Dec-2022 00:43:20 America/New_York] PHP Notice:  Undefined variable: user in /home/connhkab/public_html/testing/class.php on line 55
+[08-Dec-2022 00:47:02 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 00:47:02 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 00:47:02 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 00:47:02 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 00:47:40 America/New_York] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'mysql_real_escape_string' not found or invalid function name in /home/connhkab/public_html/testing/db.php on line 94
+[08-Dec-2022 00:47:40 America/New_York] PHP Notice:  Undefined index: date in /home/connhkab/public_html/testing/class.php on line 40
+[08-Dec-2022 00:47:40 America/New_York] PHP Notice:  Undefined variable: user in /home/connhkab/public_html/testing/class.php on line 55
+[08-Dec-2022 00:50:00 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 00:50:00 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 00:50:00 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 00:50:00 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 00:51:05 America/New_York] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'mysql_real_escape_string' not found or invalid function name in /home/connhkab/public_html/testing/db.php on line 94
+[08-Dec-2022 00:51:05 America/New_York] PHP Notice:  Undefined index: date in /home/connhkab/public_html/testing/class.php on line 40
+[08-Dec-2022 00:51:05 America/New_York] PHP Notice:  Undefined variable: user in /home/connhkab/public_html/testing/class.php on line 55
+[08-Dec-2022 00:59:52 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/connhkab/public_html/testing/class.php on line 18
+[08-Dec-2022 01:06:58 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/connhkab/public_html/testing/class.php on line 18
+[08-Dec-2022 01:11:44 America/New_York] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'mysql_real_escape_string' not found or invalid function name in /home/connhkab/public_html/testing/db.php on line 94
+[08-Dec-2022 01:11:44 America/New_York] PHP Notice:  Undefined index: date in /home/connhkab/public_html/testing/class.php on line 40
+[08-Dec-2022 01:11:44 America/New_York] PHP Notice:  Undefined variable: user in /home/connhkab/public_html/testing/class.php on line 55
+[08-Dec-2022 01:13:27 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/connhkab/public_html/testing/class.php on line 18
+[08-Dec-2022 01:14:48 America/New_York] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'mysql_real_escape_string' not found or invalid function name in /home/connhkab/public_html/testing/db.php on line 94
+[08-Dec-2022 01:14:48 America/New_York] PHP Notice:  Undefined variable: user in /home/connhkab/public_html/testing/class.php on line 55
+[08-Dec-2022 01:14:48 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 01:14:48 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 01:14:48 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 01:18:44 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 01:18:44 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 01:18:44 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 01:22:18 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 01:22:18 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 01:22:18 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 01:22:42 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 01:22:42 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 01:22:42 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 01:23:52 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 01:23:52 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 01:23:52 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 01:23:52 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 01:36:06 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/connhkab/public_html/testing/class.php on line 18
+[08-Dec-2022 01:36:53 America/New_York] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'mysql_real_escape_string' not found or invalid function name in /home/connhkab/public_html/testing/db.php on line 94
+[08-Dec-2022 01:36:53 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 01:36:53 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 01:36:53 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 01:37:21 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 01:37:21 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 01:37:21 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 01:38:03 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 01:38:03 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 01:38:03 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 01:38:03 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 01:38:12 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 01:38:13 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 01:38:13 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 01:38:13 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 01:43:25 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 01:43:25 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 01:43:25 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 01:43:25 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 01:43:37 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 01:43:37 America/New_York] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'mysql_real_escape_string' not found or invalid function name in /home/connhkab/public_html/testing/db.php on line 94
+[08-Dec-2022 01:43:37 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 87
+[08-Dec-2022 01:43:37 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 88
+[08-Dec-2022 01:43:37 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function UsersDatabase::select(), 1 passed in /home/connhkab/public_html/testing/class.php on line 97 and exactly 2 expected in /home/connhkab/public_html/testing/db.php:156
+Stack trace:
+#0 /home/connhkab/public_html/testing/class.php(97): UsersDatabase->select('SELECT * FROM U...')
+#1 /home/connhkab/public_html/testing/LoginPage.php(9): Users->login('index.php')
+#2 {main}
+  thrown in /home/connhkab/public_html/testing/db.php on line 156
+[08-Dec-2022 01:56:50 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 01:56:50 America/New_York] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'mysql_real_escape_string' not found or invalid function name in /home/connhkab/public_html/testing/db.php on line 94
+[08-Dec-2022 01:56:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 87
+[08-Dec-2022 01:56:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 88
+[08-Dec-2022 01:56:50 America/New_York] PHP Notice:  Undefined variable: link in /home/connhkab/public_html/testing/db.php on line 160
+[08-Dec-2022 01:56:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setAttribute() on null in /home/connhkab/public_html/testing/db.php:160
+Stack trace:
+#0 /home/connhkab/public_html/testing/class.php(97): UsersDatabase->select('SELECT * FROM U...')
+#1 /home/connhkab/public_html/testing/LoginPage.php(9): Users->login('index.php')
+#2 {main}
+  thrown in /home/connhkab/public_html/testing/db.php on line 160
+[08-Dec-2022 01:56:56 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 01:56:56 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 01:56:56 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 01:56:56 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 01:57:12 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 01:57:12 America/New_York] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'mysql_real_escape_string' not found or invalid function name in /home/connhkab/public_html/testing/db.php on line 94
+[08-Dec-2022 01:57:12 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 87
+[08-Dec-2022 01:57:12 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 88
+[08-Dec-2022 01:57:12 America/New_York] PHP Notice:  Undefined variable: link in /home/connhkab/public_html/testing/db.php on line 160
+[08-Dec-2022 01:57:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setAttribute() on null in /home/connhkab/public_html/testing/db.php:160
+Stack trace:
+#0 /home/connhkab/public_html/testing/class.php(97): UsersDatabase->select('SELECT * FROM U...')
+#1 /home/connhkab/public_html/testing/LoginPage.php(9): Users->login('index.php')
+#2 {main}
+  thrown in /home/connhkab/public_html/testing/db.php on line 160
+[08-Dec-2022 01:59:51 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 01:59:51 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 01:59:51 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 01:59:51 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 02:00:01 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 02:00:01 America/New_York] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'mysql_real_escape_string' not found or invalid function name in /home/connhkab/public_html/testing/db.php on line 94
+[08-Dec-2022 02:00:01 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 87
+[08-Dec-2022 02:00:01 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 88
+[08-Dec-2022 02:00:01 America/New_York] PHP Notice:  Undefined variable: link in /home/connhkab/public_html/testing/db.php on line 160
+[08-Dec-2022 02:00:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setAttribute() on null in /home/connhkab/public_html/testing/db.php:160
+Stack trace:
+#0 /home/connhkab/public_html/testing/class.php(100): UsersDatabase->select('SELECT * FROM U...')
+#1 /home/connhkab/public_html/testing/LoginPage.php(9): Users->login('index.php')
+#2 {main}
+  thrown in /home/connhkab/public_html/testing/db.php on line 160
+[08-Dec-2022 02:02:16 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 02:02:16 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 02:02:16 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 02:02:16 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 02:02:25 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 02:02:25 America/New_York] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'mysql_real_escape_string' not found or invalid function name in /home/connhkab/public_html/testing/db.php on line 94
+[08-Dec-2022 02:02:25 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 87
+[08-Dec-2022 02:02:25 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 88
+[08-Dec-2022 02:02:25 America/New_York] PHP Notice:  Undefined variable: results in /home/connhkab/public_html/testing/db.php on line 169
+[08-Dec-2022 02:02:42 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 02:02:42 America/New_York] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'mysql_real_escape_string' not found or invalid function name in /home/connhkab/public_html/testing/db.php on line 94
+[08-Dec-2022 02:02:42 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 87
+[08-Dec-2022 02:02:42 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 88
+[08-Dec-2022 02:02:42 America/New_York] PHP Notice:  Undefined variable: results in /home/connhkab/public_html/testing/db.php on line 169
+[08-Dec-2022 02:06:33 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 02:06:33 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 02:06:33 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 02:06:33 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 02:06:42 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 02:06:42 America/New_York] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'mysql_real_escape_string' not found or invalid function name in /home/connhkab/public_html/testing/db.php on line 94
+[08-Dec-2022 02:06:42 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 87
+[08-Dec-2022 02:06:42 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 88
+[08-Dec-2022 02:06:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method UsersDatabase::fetchAll() in /home/connhkab/public_html/testing/class.php:118
+Stack trace:
+#0 /home/connhkab/public_html/testing/LoginPage.php(9): Users->login('index.php')
+#1 {main}
+  thrown in /home/connhkab/public_html/testing/class.php on line 118
+[08-Dec-2022 02:14:32 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 02:14:32 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 02:14:32 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 02:14:32 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 02:14:43 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 02:14:43 America/New_York] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'mysql_real_escape_string' not found or invalid function name in /home/connhkab/public_html/testing/db.php on line 94
+[08-Dec-2022 02:14:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 87
+[08-Dec-2022 02:14:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 88
+[08-Dec-2022 02:14:43 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 122
+[08-Dec-2022 02:14:43 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 125
+[08-Dec-2022 02:14:43 America/New_York] PHP Notice:  Undefined variable: submittedname in /home/connhkab/public_html/testing/class.php on line 128
+[08-Dec-2022 02:14:43 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 02:14:43 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 02:14:43 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 02:16:21 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 02:16:21 America/New_York] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'mysql_real_escape_string' not found or invalid function name in /home/connhkab/public_html/testing/db.php on line 94
+[08-Dec-2022 02:16:21 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 87
+[08-Dec-2022 02:16:21 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 88
+[08-Dec-2022 02:16:21 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 89
+[08-Dec-2022 02:16:21 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 123
+[08-Dec-2022 02:16:21 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 126
+[08-Dec-2022 02:16:21 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 02:16:21 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 02:16:21 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 02:16:32 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 02:16:32 America/New_York] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'mysql_real_escape_string' not found or invalid function name in /home/connhkab/public_html/testing/db.php on line 94
+[08-Dec-2022 02:16:32 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 87
+[08-Dec-2022 02:16:32 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 88
+[08-Dec-2022 02:16:32 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 89
+[08-Dec-2022 02:16:32 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 123
+[08-Dec-2022 02:16:32 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 126
+[08-Dec-2022 02:16:32 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 02:16:32 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 02:16:32 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 02:21:02 America/New_York] PHP Parse error:  syntax error, unexpected ''");</script>'' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /home/connhkab/public_html/testing/class.php on line 138
+[08-Dec-2022 02:22:13 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 02:22:13 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 02:22:13 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 02:22:13 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 02:22:24 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 02:22:24 America/New_York] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'mysql_real_escape_string' not found or invalid function name in /home/connhkab/public_html/testing/db.php on line 94
+[08-Dec-2022 02:22:24 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 88
+[08-Dec-2022 02:22:24 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 89
+[08-Dec-2022 02:22:24 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 90
+[08-Dec-2022 02:22:24 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 125
+[08-Dec-2022 02:22:24 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 128
+[08-Dec-2022 02:22:24 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 02:22:24 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 02:22:24 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 02:28:25 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 02:28:25 America/New_York] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'mysql_real_escape_string' not found or invalid function name in /home/connhkab/public_html/testing/db.php on line 94
+[08-Dec-2022 02:28:25 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 88
+[08-Dec-2022 02:28:25 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 89
+[08-Dec-2022 02:28:25 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 90
+[08-Dec-2022 02:28:25 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 125
+[08-Dec-2022 02:28:25 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 128
+[08-Dec-2022 02:28:25 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 02:28:25 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 02:28:25 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 02:28:29 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 02:28:29 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 02:28:29 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 02:28:29 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 02:28:41 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 02:28:41 America/New_York] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'mysql_real_escape_string' not found or invalid function name in /home/connhkab/public_html/testing/db.php on line 94
+[08-Dec-2022 02:28:41 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 88
+[08-Dec-2022 02:28:41 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 89
+[08-Dec-2022 02:28:41 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 90
+[08-Dec-2022 02:28:41 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 125
+[08-Dec-2022 02:28:41 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 128
+[08-Dec-2022 02:28:41 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 02:28:41 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 02:28:41 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 02:29:26 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 02:29:26 America/New_York] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'mysql_real_escape_string' not found or invalid function name in /home/connhkab/public_html/testing/db.php on line 94
+[08-Dec-2022 02:29:26 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 88
+[08-Dec-2022 02:29:26 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 89
+[08-Dec-2022 02:29:26 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 90
+[08-Dec-2022 02:29:26 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 125
+[08-Dec-2022 02:29:26 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 128
+[08-Dec-2022 02:29:26 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 02:29:26 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 02:29:26 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 02:29:29 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 02:29:29 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 02:29:29 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 02:29:29 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 02:29:37 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 02:29:37 America/New_York] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'mysql_real_escape_string' not found or invalid function name in /home/connhkab/public_html/testing/db.php on line 94
+[08-Dec-2022 02:29:37 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 88
+[08-Dec-2022 02:29:37 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 89
+[08-Dec-2022 02:29:37 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 90
+[08-Dec-2022 02:29:37 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 125
+[08-Dec-2022 02:29:37 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 128
+[08-Dec-2022 02:29:37 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 02:29:37 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 02:29:37 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 02:32:01 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 02:32:01 America/New_York] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'mysql_real_escape_string' not found or invalid function name in /home/connhkab/public_html/testing/db.php on line 94
+[08-Dec-2022 02:32:01 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 88
+[08-Dec-2022 02:32:01 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 89
+[08-Dec-2022 02:32:01 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 90
+[08-Dec-2022 02:32:01 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 125
+[08-Dec-2022 02:32:01 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 128
+[08-Dec-2022 02:32:01 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 02:32:01 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 02:32:01 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 02:32:03 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 02:32:03 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 02:32:03 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 02:32:03 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 02:32:15 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 02:32:15 America/New_York] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'mysql_real_escape_string' not found or invalid function name in /home/connhkab/public_html/testing/db.php on line 94
+[08-Dec-2022 02:32:15 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 88
+[08-Dec-2022 02:32:15 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 89
+[08-Dec-2022 02:32:15 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 90
+[08-Dec-2022 02:32:15 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/db.php on line 165
+[08-Dec-2022 02:32:15 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 125
+[08-Dec-2022 02:32:15 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 128
+[08-Dec-2022 02:32:15 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 02:32:15 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 02:32:15 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 02:37:20 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 02:37:20 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 02:37:20 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 02:37:20 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 02:37:29 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 02:37:29 America/New_York] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'mysql_real_escape_string' not found or invalid function name in /home/connhkab/public_html/testing/db.php on line 94
+[08-Dec-2022 02:37:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 88
+[08-Dec-2022 02:37:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 89
+[08-Dec-2022 02:37:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 90
+[08-Dec-2022 02:37:29 America/New_York] PHP Warning:  array_values() expects parameter 1 to be array, bool given in /home/connhkab/public_html/testing/db.php on line 165
+[08-Dec-2022 02:37:29 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 125
+[08-Dec-2022 02:37:29 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 128
+[08-Dec-2022 02:37:29 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 02:37:29 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 02:37:29 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 02:41:06 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 02:41:06 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 02:41:06 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 02:41:06 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 02:41:18 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 02:41:18 America/New_York] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'mysql_real_escape_string' not found or invalid function name in /home/connhkab/public_html/testing/db.php on line 94
+[08-Dec-2022 02:41:18 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 88
+[08-Dec-2022 02:41:18 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 89
+[08-Dec-2022 02:41:18 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 90
+[08-Dec-2022 02:41:18 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 125
+[08-Dec-2022 02:41:18 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 128
+[08-Dec-2022 02:41:18 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 02:41:18 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 02:41:18 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 02:42:03 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 02:42:03 America/New_York] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'mysql_real_escape_string' not found or invalid function name in /home/connhkab/public_html/testing/db.php on line 94
+[08-Dec-2022 02:42:03 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 88
+[08-Dec-2022 02:42:03 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 89
+[08-Dec-2022 02:42:03 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 90
+[08-Dec-2022 02:42:03 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 125
+[08-Dec-2022 02:42:03 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 128
+[08-Dec-2022 02:42:03 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 02:42:03 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 02:42:03 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 02:42:58 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 02:42:58 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 02:42:58 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 02:42:58 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 02:43:06 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 02:43:06 America/New_York] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'mysql_real_escape_string' not found or invalid function name in /home/connhkab/public_html/testing/db.php on line 94
+[08-Dec-2022 02:43:06 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 88
+[08-Dec-2022 02:43:06 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 89
+[08-Dec-2022 02:43:06 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 124
+[08-Dec-2022 02:43:06 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 127
+[08-Dec-2022 02:43:06 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 02:43:06 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 02:43:06 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 02:45:19 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 02:45:19 America/New_York] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'mysql_real_escape_string' not found or invalid function name in /home/connhkab/public_html/testing/db.php on line 94
+[08-Dec-2022 02:45:19 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 88
+[08-Dec-2022 02:45:19 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 90
+[08-Dec-2022 02:45:19 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 125
+[08-Dec-2022 02:45:19 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 128
+[08-Dec-2022 02:45:19 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 02:45:19 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 02:45:19 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 02:45:21 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 02:45:21 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 02:45:21 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 02:45:21 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 02:45:29 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 02:45:29 America/New_York] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'mysql_real_escape_string' not found or invalid function name in /home/connhkab/public_html/testing/db.php on line 94
+[08-Dec-2022 02:45:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 88
+[08-Dec-2022 02:45:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 90
+[08-Dec-2022 02:45:29 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 125
+[08-Dec-2022 02:45:29 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 128
+[08-Dec-2022 02:45:29 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 02:45:29 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 02:45:29 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 02:48:41 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 02:48:41 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 02:48:41 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 02:48:41 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 02:48:51 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 02:48:51 America/New_York] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'mysql_real_escape_string' not found or invalid function name in /home/connhkab/public_html/testing/db.php on line 94
+[08-Dec-2022 02:48:51 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 88
+[08-Dec-2022 02:48:51 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 90
+[08-Dec-2022 02:48:51 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 125
+[08-Dec-2022 02:48:51 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 128
+[08-Dec-2022 02:48:51 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 02:48:51 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 02:48:51 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 02:51:23 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 02:51:23 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 02:51:23 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 02:51:23 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 02:51:30 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 02:51:30 America/New_York] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'mysql_real_escape_string' not found or invalid function name in /home/connhkab/public_html/testing/db.php on line 94
+[08-Dec-2022 02:51:30 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 129
+[08-Dec-2022 02:51:30 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 132
+[08-Dec-2022 02:51:30 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 02:51:30 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 02:51:30 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 02:59:06 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 02:59:06 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 02:59:06 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 02:59:06 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 02:59:14 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 02:59:14 America/New_York] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'mysql_real_escape_string' not found or invalid function name in /home/connhkab/public_html/testing/db.php on line 94
+[08-Dec-2022 02:59:14 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/connhkab/public_html/testing/class.php on line 124
+[08-Dec-2022 02:59:14 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 129
+[08-Dec-2022 02:59:14 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 132
+[08-Dec-2022 02:59:14 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 02:59:14 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 02:59:14 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 03:01:55 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:01:55 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 03:01:55 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 03:01:55 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 03:06:22 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:06:22 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 03:06:22 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 03:06:22 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 03:06:30 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:06:30 America/New_York] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'mysql_real_escape_string' not found or invalid function name in /home/connhkab/public_html/testing/db.php on line 94
+[08-Dec-2022 03:06:30 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/db.php on line 165
+[08-Dec-2022 03:06:30 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/connhkab/public_html/testing/class.php on line 124
+[08-Dec-2022 03:06:30 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 129
+[08-Dec-2022 03:06:30 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 132
+[08-Dec-2022 03:06:30 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 03:06:30 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 03:06:30 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 03:07:57 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:07:57 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 03:07:57 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 03:07:57 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 03:08:05 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:08:05 America/New_York] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'mysql_real_escape_string' not found or invalid function name in /home/connhkab/public_html/testing/db.php on line 94
+[08-Dec-2022 03:08:05 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/db.php on line 165
+[08-Dec-2022 03:08:05 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 125
+[08-Dec-2022 03:08:05 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 128
+[08-Dec-2022 03:08:05 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 03:08:05 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 03:08:05 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 03:09:58 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:09:58 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 03:09:58 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 03:09:58 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 03:10:08 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:10:08 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/db.php on line 165
+[08-Dec-2022 03:10:08 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 125
+[08-Dec-2022 03:10:08 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 128
+[08-Dec-2022 03:10:08 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 03:10:08 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 03:10:08 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 03:12:59 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:12:59 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 03:12:59 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 03:12:59 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 03:13:07 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:13:07 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/db.php on line 165
+[08-Dec-2022 03:13:07 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 125
+[08-Dec-2022 03:13:07 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/connhkab/public_html/testing/class.php on line 128
+[08-Dec-2022 03:13:07 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 03:13:07 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 03:13:07 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 03:16:54 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:16:54 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 03:16:54 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 03:16:54 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 03:17:04 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:17:04 America/New_York] PHP Fatal error:  Uncaught Error: Object of class PDOStatement could not be converted to string in /home/connhkab/public_html/testing/db.php:163
+Stack trace:
+#0 /home/connhkab/public_html/testing/class.php(105): UsersDatabase->select(Object(PDO), 'SELECT * FROM U...')
+#1 /home/connhkab/public_html/testing/LoginPage.php(9): Users->login('index.php')
+#2 {main}
+  thrown in /home/connhkab/public_html/testing/db.php on line 163
+[08-Dec-2022 03:22:12 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:22:12 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 03:22:12 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 03:22:12 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 03:22:19 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:22:19 America/New_York] PHP Fatal error:  Uncaught Error: Object of class PDOStatement could not be converted to string in /home/connhkab/public_html/testing/db.php:163
+Stack trace:
+#0 /home/connhkab/public_html/testing/class.php(105): UsersDatabase->select(Object(PDO), 'SELECT * FROM U...')
+#1 /home/connhkab/public_html/testing/LoginPage.php(9): Users->login('index.php')
+#2 {main}
+  thrown in /home/connhkab/public_html/testing/db.php on line 163
+[08-Dec-2022 03:23:07 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:23:07 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 03:23:07 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 03:23:07 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 03:23:14 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:23:14 America/New_York] PHP Notice:  Undefined variable: results in /home/connhkab/public_html/testing/db.php on line 165
+[08-Dec-2022 03:23:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/db.php on line 165
+[08-Dec-2022 03:23:15 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 03:23:15 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:23:15 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 03:23:15 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 03:24:27 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:24:27 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 03:24:27 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 03:24:27 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 03:24:40 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:24:40 America/New_York] PHP Notice:  Undefined variable: results in /home/connhkab/public_html/testing/db.php on line 165
+[08-Dec-2022 03:24:40 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/db.php on line 165
+[08-Dec-2022 03:24:43 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 03:24:43 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:24:43 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 03:24:43 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 03:28:27 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:28:27 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 03:28:27 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 03:28:27 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 03:28:34 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:28:34 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 03:28:34 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:28:34 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 03:28:34 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 03:30:37 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:30:37 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 03:30:37 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 03:30:37 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 03:30:45 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:30:45 America/New_York] PHP Notice:  Undefined variable: results in /home/connhkab/public_html/testing/class.php on line 108
+[08-Dec-2022 03:32:36 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:32:36 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 03:32:36 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 03:32:36 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 03:32:46 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:32:46 America/New_York] PHP Notice:  Undefined variable: results in /home/connhkab/public_html/testing/class.php on line 126
+[08-Dec-2022 03:32:46 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 126
+[08-Dec-2022 03:32:46 America/New_York] PHP Notice:  Undefined variable: results in /home/connhkab/public_html/testing/class.php on line 130
+[08-Dec-2022 03:32:46 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 130
+[08-Dec-2022 03:32:46 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 03:32:46 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 03:32:46 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 03:34:06 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:34:06 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 03:34:06 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 03:34:06 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 03:34:13 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:34:14 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 03:34:14 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:34:14 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 03:34:14 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 03:35:06 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:35:06 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 03:35:06 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:35:06 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 03:35:06 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 03:36:12 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 03:36:12 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:36:12 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 03:36:12 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 03:36:20 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:36:20 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 03:36:20 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 03:36:20 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 03:37:17 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:37:17 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 03:37:17 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 03:37:17 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 03:37:24 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:37:25 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 03:37:25 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:37:25 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 03:37:25 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 03:37:45 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:37:45 America/New_York] PHP Notice:  Undefined variable: j in /home/connhkab/public_html/testing/LoginPage.php on line 9
+[08-Dec-2022 03:37:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function login() on null in /home/connhkab/public_html/testing/LoginPage.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/connhkab/public_html/testing/LoginPage.php on line 9
+[08-Dec-2022 03:37:49 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:37:49 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 03:37:49 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 03:37:49 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 03:37:55 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:37:55 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 03:37:56 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:37:56 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 03:37:56 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 03:38:34 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:38:34 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 03:38:34 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 03:38:34 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 03:38:41 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:38:41 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 03:40:50 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 03:40:50 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:40:50 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 03:40:50 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 03:40:59 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:40:59 America/New_York] PHP Notice:  Undefined variable: results in /home/connhkab/public_html/testing/class.php on line 132
+[08-Dec-2022 03:40:59 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 132
+[08-Dec-2022 03:40:59 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 03:40:59 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 03:42:38 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:42:38 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 03:42:38 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 03:42:52 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:42:52 America/New_York] PHP Notice:  Undefined variable: storeddate in /home/connhkab/public_html/testing/class.php on line 108
+[08-Dec-2022 03:42:52 America/New_York] PHP Notice:  Undefined variable: results in /home/connhkab/public_html/testing/class.php on line 138
+[08-Dec-2022 03:42:52 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 138
+[08-Dec-2022 03:42:52 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 03:42:52 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 03:48:39 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:48:39 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 03:48:39 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 03:48:39 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 03:49:57 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:49:57 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 03:49:57 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 03:50:10 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 03:50:10 America/New_York] PHP Notice:  Undefined variable: storeddate in /home/connhkab/public_html/testing/class.php on line 108
+[08-Dec-2022 03:50:10 America/New_York] PHP Notice:  Undefined variable: results in /home/connhkab/public_html/testing/class.php on line 138
+[08-Dec-2022 03:50:10 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 138
+[08-Dec-2022 03:50:10 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 03:50:10 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 04:10:59 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 04:10:59 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 04:10:59 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 04:10:59 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 04:11:19 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 04:11:19 America/New_York] PHP Notice:  Undefined variable: storeddate in /home/connhkab/public_html/testing/class.php on line 108
+[08-Dec-2022 04:11:19 America/New_York] PHP Notice:  Undefined variable: results in /home/connhkab/public_html/testing/class.php on line 138
+[08-Dec-2022 04:11:19 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 138
+[08-Dec-2022 04:11:19 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 04:11:19 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 04:11:19 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 04:13:17 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 04:13:17 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 04:13:17 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 04:13:17 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 04:13:24 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 04:13:24 America/New_York] PHP Notice:  Undefined variable: storeddate in /home/connhkab/public_html/testing/class.php on line 111
+[08-Dec-2022 04:13:24 America/New_York] PHP Notice:  Undefined variable: results in /home/connhkab/public_html/testing/class.php on line 140
+[08-Dec-2022 04:13:24 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 140
+[08-Dec-2022 04:13:24 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 04:13:24 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 04:13:24 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 14:42:23 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/connhkab/public_html/testing/class.php on line 17
+[08-Dec-2022 14:42:34 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/connhkab/public_html/testing/class.php on line 17
+[08-Dec-2022 14:42:39 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/connhkab/public_html/testing/class.php on line 17
+[08-Dec-2022 14:43:44 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/connhkab/public_html/testing/class.php on line 17
+[08-Dec-2022 14:43:54 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:43:54 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:43:54 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:43:54 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:43:54 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:43:54 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:43:55 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:43:55 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:43:55 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:43:55 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:43:55 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:43:55 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:43:55 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:43:55 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:43:56 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:43:56 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:43:56 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:43:56 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:43:56 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:43:57 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:43:57 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:43:57 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:43:58 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:43:58 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:43:58 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:43:58 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:43:58 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:43:58 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:43:58 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:43:59 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:43:59 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:43:59 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:43:59 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:43:59 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:43:59 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:43:59 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:43:59 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:44:00 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:44:00 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:44:05 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:44:05 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:44:05 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:44:05 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:44:06 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:44:06 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:44:06 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:44:06 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:44:06 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:44:06 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:44:06 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:44:07 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:44:07 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:44:07 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:44:07 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:44:07 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:44:07 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:44:07 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:44:07 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:44:08 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:44:19 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 14:44:19 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 14:44:19 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 14:44:19 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 14:44:32 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 14:44:32 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 14:44:32 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 14:44:32 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 14:45:00 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:00 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:00 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:00 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:00 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:00 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:00 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:01 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:01 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:01 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:01 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:01 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:01 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:01 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:01 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:02 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:02 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:02 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:02 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:03 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:03 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:03 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:04 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:04 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:04 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:04 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:04 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:04 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:04 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:04 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:05 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:05 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:05 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:05 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:05 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:05 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:05 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:06 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:06 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:11 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:11 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:11 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:11 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:12 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:12 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:12 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:12 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:12 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:12 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:12 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:13 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:13 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:13 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:13 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:13 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:13 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:13 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:13 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:14 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 14:45:21 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/connhkab/public_html/testing/class.php on line 17
+[08-Dec-2022 14:52:00 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/connhkab/public_html/testing/class.php on line 17
+[08-Dec-2022 15:26:30 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 15:26:30 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 15:26:30 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 15:26:30 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 15:26:53 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 15:26:53 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 15:26:53 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 15:26:53 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 15:27:12 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 15:27:12 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 15:27:12 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 15:27:12 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 15:30:01 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 15:30:01 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 15:30:01 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 15:30:46 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 15:30:46 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 15:30:46 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 15:30:46 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 15:32:58 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 15:32:58 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 15:32:58 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 15:32:58 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 15:33:12 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 15:33:12 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 15:33:12 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 15:33:12 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 15:33:18 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 15:33:18 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 15:33:18 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 15:33:18 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 15:33:33 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 15:33:33 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 15:33:33 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 15:33:33 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 15:34:12 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 15:34:12 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 15:34:12 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 15:34:12 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 15:42:15 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 15:42:15 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 15:42:15 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 15:42:15 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 15:42:41 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 15:42:41 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 15:42:41 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 15:42:41 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 15:42:46 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 15:42:46 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 15:42:46 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 15:42:46 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 15:43:21 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 15:43:21 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 15:43:21 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 15:43:21 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 15:44:44 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/connhkab/public_html/testing/class.php on line 18
+[08-Dec-2022 16:36:51 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/connhkab/public_html/testing/class.php on line 18
+[08-Dec-2022 16:37:00 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 16:37:00 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 16:37:00 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 16:37:00 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 17:17:41 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/connhkab/public_html/testing/class.php on line 18
+[08-Dec-2022 17:18:17 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 17:18:17 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 17:18:17 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 17:35:04 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/connhkab/public_html/testing/class.php on line 18
+[08-Dec-2022 17:37:16 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 17:37:16 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 17:37:16 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 17:37:16 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 17:38:08 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 17:38:08 America/New_York] PHP Notice:  Undefined variable: results in /home/connhkab/public_html/testing/class.php on line 151
+[08-Dec-2022 17:38:08 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 151
+[08-Dec-2022 17:38:08 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 17:38:08 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 17:38:08 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 17:42:36 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 17:42:36 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 17:42:36 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 17:42:36 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 17:42:47 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 17:42:47 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 17:42:47 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 17:42:47 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 17:42:47 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 18:06:17 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 18:06:17 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 18:06:17 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 18:06:17 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 18:06:27 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 18:06:28 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 18:06:28 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 18:06:28 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 18:06:28 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 18:08:05 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 18:08:05 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 18:08:05 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 18:08:05 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 18:08:13 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 18:08:13 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 18:08:13 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 18:08:13 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 18:08:13 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 18:13:12 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 18:13:12 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 18:13:12 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 18:13:14 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 18:13:14 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 18:13:14 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 18:21:29 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 18:21:29 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 18:21:29 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 18:21:40 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 18:21:40 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 18:21:41 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 18:21:41 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 18:21:41 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 18:24:19 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 18:24:19 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 18:24:19 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 18:24:19 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 18:24:29 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 18:24:29 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 18:24:30 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 18:24:30 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 18:24:30 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 18:26:42 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 18:26:42 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 18:26:42 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 18:26:42 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 18:26:53 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 18:26:54 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 18:26:54 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 18:26:54 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 18:26:54 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 18:33:29 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 18:33:29 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 18:33:29 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 18:33:29 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 18:33:43 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 18:33:43 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 18:33:43 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 18:33:43 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 18:33:43 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 18:34:55 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 18:34:55 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 18:34:55 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 18:34:55 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 18:35:04 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 18:35:04 America/New_York] PHP Notice:  Undefined variable: storedpass in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 18:35:04 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 6
+[08-Dec-2022 18:35:37 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 18:35:37 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 6
+[08-Dec-2022 18:35:42 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 18:35:42 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 18:35:42 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 18:35:42 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 18:35:53 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 18:35:53 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 18:35:53 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 6
+[08-Dec-2022 18:37:39 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 18:37:39 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 7
+[08-Dec-2022 18:38:23 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 18:38:23 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 7
+[08-Dec-2022 18:38:30 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 18:38:30 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 18:38:30 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 18:38:30 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 18:44:01 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 18:44:01 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 18:44:01 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 18:44:01 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 18:44:08 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 18:44:09 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 5
+[08-Dec-2022 18:44:09 America/New_York] PHP Notice:  Undefined variable: logged in /home/connhkab/public_html/testing/index.php on line 7
+[08-Dec-2022 18:46:48 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function UsersDatabase::select(), 1 passed in /home/connhkab/public_html/testing/index.php on line 28 and exactly 2 expected in /home/connhkab/public_html/testing/db.php:156
+Stack trace:
+#0 /home/connhkab/public_html/testing/index.php(28): UsersDatabase->select('SELECT * FROM U...')
+#1 {main}
+  thrown in /home/connhkab/public_html/testing/db.php on line 156
+[08-Dec-2022 19:04:32 America/New_York] PHP Notice:  Undefined variable: result in /home/connhkab/public_html/testing/db.php on line 169
+[08-Dec-2022 19:06:53 America/New_York] PHP Notice:  Undefined variable: result in /home/connhkab/public_html/testing/db.php on line 169
+[08-Dec-2022 19:09:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method UsersDatabase::fetchAll() in /home/connhkab/public_html/testing/index.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/connhkab/public_html/testing/index.php on line 42
+[08-Dec-2022 19:11:02 America/New_York] PHP Notice:  Undefined index: userlogauth in /home/connhkab/public_html/testing/class.php on line 206
+[08-Dec-2022 19:11:02 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 209
+[08-Dec-2022 19:11:02 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 210
+[08-Dec-2022 19:11:02 America/New_York] PHP Notice:  Undefined index: userlogauth in /home/connhkab/public_html/testing/index.php on line 19
+[08-Dec-2022 19:11:02 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/index.php on line 22
+[08-Dec-2022 19:11:02 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/index.php on line 23
+[08-Dec-2022 19:11:06 America/New_York] PHP Notice:  Undefined index: userlogauth in /home/connhkab/public_html/testing/class.php on line 206
+[08-Dec-2022 19:11:06 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 209
+[08-Dec-2022 19:11:06 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 210
+[08-Dec-2022 19:11:06 America/New_York] PHP Notice:  Undefined index: userlogauth in /home/connhkab/public_html/testing/index.php on line 19
+[08-Dec-2022 19:11:06 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/index.php on line 22
+[08-Dec-2022 19:11:06 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/index.php on line 23
+[08-Dec-2022 19:11:42 America/New_York] PHP Notice:  Undefined index: userlogauth in /home/connhkab/public_html/testing/class.php on line 206
+[08-Dec-2022 19:11:42 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 209
+[08-Dec-2022 19:11:42 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 210
+[08-Dec-2022 19:11:42 America/New_York] PHP Notice:  Undefined index: userlogauth in /home/connhkab/public_html/testing/index.php on line 19
+[08-Dec-2022 19:11:42 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/index.php on line 22
+[08-Dec-2022 19:11:42 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/index.php on line 23
+[08-Dec-2022 19:12:04 America/New_York] PHP Notice:  Undefined index: userlogauth in /home/connhkab/public_html/testing/class.php on line 206
+[08-Dec-2022 19:12:04 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 209
+[08-Dec-2022 19:12:04 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 210
+[08-Dec-2022 19:12:04 America/New_York] PHP Notice:  Undefined index: userlogauth in /home/connhkab/public_html/testing/index.php on line 19
+[08-Dec-2022 19:12:04 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/index.php on line 22
+[08-Dec-2022 19:12:04 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/index.php on line 23
+[08-Dec-2022 19:19:29 America/New_York] PHP Notice:  Undefined index: userlogauth in /home/connhkab/public_html/testing/class.php on line 200
+[08-Dec-2022 19:19:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 203
+[08-Dec-2022 19:19:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 204
+[08-Dec-2022 19:19:29 America/New_York] PHP Notice:  Undefined variable: redirect in /home/connhkab/public_html/testing/class.php on line 254
+[08-Dec-2022 19:21:58 America/New_York] PHP Notice:  Undefined index: userlogauth in /home/connhkab/public_html/testing/class.php on line 200
+[08-Dec-2022 19:21:58 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 203
+[08-Dec-2022 19:21:58 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 204
+[08-Dec-2022 19:21:58 America/New_York] PHP Notice:  Undefined variable: redirect in /home/connhkab/public_html/testing/class.php on line 254
+[08-Dec-2022 19:22:13 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 19:22:13 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 19:22:13 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 19:22:13 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 19:22:23 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/connhkab/public_html/testing/class.php on line 18
+[08-Dec-2022 19:22:29 America/New_York] PHP Notice:  Undefined index: userlogauth in /home/connhkab/public_html/testing/class.php on line 200
+[08-Dec-2022 19:22:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 203
+[08-Dec-2022 19:22:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 204
+[08-Dec-2022 19:22:29 America/New_York] PHP Notice:  Undefined variable: redirect in /home/connhkab/public_html/testing/class.php on line 254
+[08-Dec-2022 19:24:00 America/New_York] PHP Notice:  Undefined index: userlogauth in /home/connhkab/public_html/testing/class.php on line 200
+[08-Dec-2022 19:24:00 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 203
+[08-Dec-2022 19:24:00 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 204
+[08-Dec-2022 19:24:00 America/New_York] PHP Notice:  Undefined variable: redirect in /home/connhkab/public_html/testing/class.php on line 254
+[08-Dec-2022 19:26:49 America/New_York] PHP Notice:  Undefined index: userlogauth in /home/connhkab/public_html/testing/class.php on line 200
+[08-Dec-2022 19:26:49 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 203
+[08-Dec-2022 19:26:49 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 204
+[08-Dec-2022 19:26:49 America/New_York] PHP Notice:  Undefined variable: redirect in /home/connhkab/public_html/testing/class.php on line 254
+[08-Dec-2022 19:27:54 America/New_York] PHP Notice:  Undefined index: userlogauth in /home/connhkab/public_html/testing/class.php on line 200
+[08-Dec-2022 19:27:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 203
+[08-Dec-2022 19:27:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 204
+[08-Dec-2022 19:28:44 America/New_York] PHP Notice:  Undefined index: userlogauth in /home/connhkab/public_html/testing/class.php on line 200
+[08-Dec-2022 19:28:44 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 203
+[08-Dec-2022 19:28:44 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 204
+[08-Dec-2022 19:28:47 America/New_York] PHP Notice:  Undefined index: userlogauth in /home/connhkab/public_html/testing/class.php on line 200
+[08-Dec-2022 19:28:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 203
+[08-Dec-2022 19:28:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 204
+[08-Dec-2022 19:29:09 America/New_York] PHP Notice:  Undefined index: userlogauth in /home/connhkab/public_html/testing/class.php on line 200
+[08-Dec-2022 19:29:09 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 203
+[08-Dec-2022 19:29:09 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 204
+[08-Dec-2022 19:29:11 America/New_York] PHP Notice:  Undefined index: userlogauth in /home/connhkab/public_html/testing/class.php on line 200
+[08-Dec-2022 19:29:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 203
+[08-Dec-2022 19:29:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 204
+[08-Dec-2022 19:30:30 America/New_York] PHP Notice:  Undefined index: userlogauth in /home/connhkab/public_html/testing/class.php on line 200
+[08-Dec-2022 19:30:30 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 203
+[08-Dec-2022 19:30:30 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 204
+[08-Dec-2022 19:31:31 America/New_York] PHP Notice:  Undefined index: userlogauth in /home/connhkab/public_html/testing/class.php on line 200
+[08-Dec-2022 19:31:31 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 203
+[08-Dec-2022 19:31:31 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 204
+[08-Dec-2022 19:32:00 America/New_York] PHP Notice:  Undefined index: userlogauth in /home/connhkab/public_html/testing/class.php on line 200
+[08-Dec-2022 19:32:00 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 203
+[08-Dec-2022 19:32:00 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 204
+[08-Dec-2022 19:32:49 America/New_York] PHP Notice:  Undefined index: userlogauth in /home/connhkab/public_html/testing/class.php on line 200
+[08-Dec-2022 19:32:49 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 203
+[08-Dec-2022 19:32:49 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 204
+[08-Dec-2022 19:34:09 America/New_York] PHP Notice:  Undefined index: userlogauth in /home/connhkab/public_html/testing/class.php on line 200
+[08-Dec-2022 19:34:09 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 203
+[08-Dec-2022 19:34:09 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 204
+[08-Dec-2022 19:34:30 America/New_York] PHP Notice:  Undefined index: userlogauth in /home/connhkab/public_html/testing/class.php on line 200
+[08-Dec-2022 19:34:30 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 203
+[08-Dec-2022 19:34:30 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 204
+[08-Dec-2022 19:35:01 America/New_York] PHP Notice:  Undefined index: userlogauth in /home/connhkab/public_html/testing/class.php on line 200
+[08-Dec-2022 19:35:01 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 203
+[08-Dec-2022 19:35:01 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 204
+[08-Dec-2022 19:35:04 America/New_York] PHP Notice:  Undefined index: userlogauth in /home/connhkab/public_html/testing/class.php on line 200
+[08-Dec-2022 19:35:04 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 203
+[08-Dec-2022 19:35:04 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 204
+[08-Dec-2022 19:35:07 America/New_York] PHP Notice:  Undefined index: userlogauth in /home/connhkab/public_html/testing/class.php on line 200
+[08-Dec-2022 19:35:07 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 203
+[08-Dec-2022 19:35:07 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 204
+[08-Dec-2022 19:35:13 America/New_York] PHP Notice:  Undefined index: userlogauth in /home/connhkab/public_html/testing/class.php on line 200
+[08-Dec-2022 19:35:13 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 203
+[08-Dec-2022 19:35:13 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 204
+[08-Dec-2022 19:35:31 America/New_York] PHP Notice:  Undefined index: userlogauth in /home/connhkab/public_html/testing/class.php on line 200
+[08-Dec-2022 19:35:31 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 203
+[08-Dec-2022 19:35:31 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 204
+[08-Dec-2022 19:36:00 America/New_York] PHP Notice:  Undefined index: userlogauth in /home/connhkab/public_html/testing/class.php on line 200
+[08-Dec-2022 19:36:00 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 203
+[08-Dec-2022 19:36:00 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 204
+[08-Dec-2022 19:36:02 America/New_York] PHP Notice:  Undefined index: userlogauth in /home/connhkab/public_html/testing/class.php on line 200
+[08-Dec-2022 19:36:02 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 203
+[08-Dec-2022 19:36:02 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 204
+[08-Dec-2022 19:36:33 America/New_York] PHP Notice:  Undefined index: userlogauth in /home/connhkab/public_html/testing/class.php on line 200
+[08-Dec-2022 19:36:33 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 203
+[08-Dec-2022 19:36:33 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 204
+[08-Dec-2022 19:36:33 America/New_York] PHP Notice:  Undefined variable: redirect in /home/connhkab/public_html/testing/class.php on line 254
+[08-Dec-2022 19:37:00 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 19:37:00 America/New_York] PHP Notice:  Undefined index: reg in /home/connhkab/public_html/testing/LoginPage.php on line 29
+[08-Dec-2022 19:37:00 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 34
+[08-Dec-2022 19:37:00 America/New_York] PHP Notice:  Undefined index: msg in /home/connhkab/public_html/testing/LoginPage.php on line 45
+[08-Dec-2022 19:37:08 America/New_York] PHP Notice:  Undefined index: action in /home/connhkab/public_html/testing/LoginPage.php on line 5
+[08-Dec-2022 19:37:49 America/New_York] PHP Notice:  Undefined index: userlogauth in /home/connhkab/public_html/testing/class.php on line 200
+[08-Dec-2022 19:37:49 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 203
+[08-Dec-2022 19:37:49 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 204
+[08-Dec-2022 19:37:49 America/New_York] PHP Notice:  Undefined variable: redirect in /home/connhkab/public_html/testing/class.php on line 254
+[08-Dec-2022 19:39:04 America/New_York] PHP Notice:  Undefined index: userlogauth in /home/connhkab/public_html/testing/class.php on line 200
+[08-Dec-2022 19:39:04 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 203
+[08-Dec-2022 19:39:04 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/connhkab/public_html/testing/class.php on line 204
+[08-Dec-2022 19:39:04 America/New_York] PHP Notice:  Undefined variable: redirect in /home/connhkab/public_html/testing/class.php on line 254
+[08-Dec-2022 20:10:06 America/New_York] PHP Notice:  Undefined index: HTTP_REFERER in /home/connhkab/public_html/testing/class.php on line 18

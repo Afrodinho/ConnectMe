@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 
+
 <?php
     require_once('load.php');
-    $j->register('login.php');
+    $j->register('LoginPage.php');
 ?>
 
 <html lang="en-US">
@@ -15,14 +16,9 @@
         <!-- This is for the Show password Toggle Icon -->
         <!--<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css"/> -->
         <script src="new.js"></script>
+        <!-- <script src="https://www.google.com/recaptcha/api.js" async defer></script> -->
         <title>Sign Up</title>
     </head>
-    
-    
-    
-    
-    
-    
 
     <body>
     
@@ -34,7 +30,7 @@
             <nav class="nav" id="nav-menu">
                 <ul class="nav_list">
                     <li class="nav_item"><a href="index.php" class="nav_link">Home</a></li>
-                    <li class="nav_item"><a href="about.html" class="nav_link">About Us</a></li>
+                    <li class="nav_item"><a href="about.php" class="nav_link">About Us</a></li>
                     <li class="nav_item"><a href="SignUp.php" class="nav_link">Sign Up</a></li>
                     <li class="nav_item"><a href="LoginPage.php" class="nav_link" id="login">Log In</a></li>
                 </ul>
@@ -51,7 +47,7 @@
                 <nav class="mobile-dropdown" id="nav_menu">
             <ul class="nav_list">
                     <li class="nav_item"><a href="index.php" class="nav_link">Home</a></li>
-                    <li class="nav_item"><a href="about.html" class="nav_link">About Us</a></li>
+                    <li class="nav_item"><a href="about.php" class="nav_link">About Us</a></li>
                     <li class="nav_item"><a href="SignUp.php" class="nav_link">Sign Up</a></li>
                     <li class="nav_item"><a href="LoginPage.php" class="nav_link">Log In</a></li>
                 </ul>
@@ -64,13 +60,18 @@
                     <div class="forms-wrap">
                         <h2>Sign Up</h2>
                         
-                        <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post">
-                            <input type="text" placeholder="Enter your name" name="username" required> <br>
-                            <input type="text" placeholder="Enter your email" name="useremail" required><br>
-                            <input type="password" placeholder="Create a password" name="userpass" id="myInput" required>
-                            <input type="hidden" name="joindate" value="<?php echo time(); ?>" />
+                        <form method="post" action="">
+                            <!-- <div class="g-recaptcha" data-sitekey="your_site_key"></div> -->
+                            <!-- $fields = array('Username', 'Password', 'FirstName', 'LastName', 'DateJoined', 'EmailAddress'); -->
+                            <input type="text" placeholder="Enter your username" name="username" required> <br>
+                            <input type="text" placeholder="Enter your first name" name="firstname" required><br>
+                            <input type="text" placeholder="Enter your last name" name="lastname" required><br>
+                            <input type="text" placeholder="Enter your email" name="email" required><br>
+                            <input type="password" placeholder="Create a password" name="password" id="myInput" required>
+                            <input type="hidden" name="date" value="<?php echo time(); ?>" />
                             
-                            <a href="" class="button">Get Started</a>
+                            <input type="submit" class="button" value="Get Started"></input>
+                            <!-- <a href="" class="button">Get Started</a> -->
                             
                             <br>
                             <p>Have an account? <a href="LoginPage.php" class="links">Sign In</a></p>
@@ -78,7 +79,7 @@
                             
                         </form>
 <!--
-                    <form action="SignUp.html" autocomplete="off" class="sign-in-form">
+                    <form action="SignUp.php" autocomplete="off" class="sign-in-form">
                         <div class="logo">
                         <img src="ConnectMe_LightModeV3.png" alt="ConnectMe">
                         </div>
@@ -142,10 +143,10 @@
         <!--
             <nav class="nav" id="nav-menu">
                 <ul class="nav_list">
-                    <li class="nav_item"><a href="index.html" class="nav_link">Home</a></li>
-                    <li class="nav_item"><a href="about.html" class="nav_link">About Us</a></li>
-                    <li class="nav_item"><a href="LoginPage.html" class="nav_link">Log In</a></li>
-                    <li class="nav_item"><a href="SignUp.html" class="nav_link">Sign Up</a></li>
+                    <li class="nav_item"><a href="index.php" class="nav_link">Home</a></li>
+                    <li class="nav_item"><a href="about.php" class="nav_link">About Us</a></li>
+                    <li class="nav_item"><a href="LoginPage.php" class="nav_link">Log In</a></li>
+                    <li class="nav_item"><a href="SignUp.php" class="nav_link">Sign Up</a></li>
                 </ul>
             </nav>
 
@@ -162,7 +163,7 @@
         <div class="left-side">
             
              <div class = "logo">
-                <a href="index.html"><img src = "ConnectMe_LightModeV3.png" alt=""></a>
+                <a href="index.php"><img src = "ConnectMe_LightModeV3.png" alt=""></a>
             </div>
         <!--
             <h2>Welcome to ConnectMe</h2>
@@ -220,7 +221,7 @@
 
         <div class="right-side">
             <nav class="nav" id="nav_menu">
-                <li class="nav_item"><a href="LoginPage.html" class="nav_link">Log In</a>
+                <li class="nav_item"><a href="LoginPage.php" class="nav_link">Log In</a>
             </nav>
         <img src = "side-image-V3-NOISY.png" alt="">
         </div>
@@ -233,10 +234,10 @@
         
                 <nav class="mobile-dropdown" id="nav_menu">
             <ul class="nav_list">
-                    <li class="nav_item"><a href="index.html" class="nav_link">Home</a></li>
-                    <li class="nav_item"><a href="about.html" class="nav_link">About Us</a></li>
-                    <li class="nav_item"><a href="LoginPage.html" class="nav_link">Log In</a></li>
-                    <li class="nav_item"><a href="SignUp.html" class="nav_link">Sign Up</a></li>
+                    <li class="nav_item"><a href="index.php" class="nav_link">Home</a></li>
+                    <li class="nav_item"><a href="about.php" class="nav_link">About Us</a></li>
+                    <li class="nav_item"><a href="LoginPage.php" class="nav_link">Log In</a></li>
+                    <li class="nav_item"><a href="SignUp.php" class="nav_link">Sign Up</a></li>
                 </ul>
             </nav>
         
@@ -248,7 +249,7 @@
         <main>
             <div class="box">
                 <div class = "forms">
-                <form action="index.html" autocomplete="off" class="sign-in-form">
+                <form action="index.php" autocomplete="off" class="sign-in-form">
                 </form>
                 </div>
                 
