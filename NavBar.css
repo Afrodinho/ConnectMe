@@ -1,0 +1,276 @@
+*{
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    
+    
+    animation: fadeInAnimation ease 2s forwards 1;
+    background-color: #F4F4F4;
+    
+}
+
+@keyframes fadeInAnimation{
+    0% {
+        opacity: 0;
+        transform: translateY(10%);
+    }    
+    
+    100%{
+        opacity: 1;    
+        transform: translateY(0);
+    }
+    
+}
+
+
+a{
+    text-decoration: none;
+    color: #303338;
+}
+
+ul{
+    list-style: none;
+}
+
+header{
+    padding-top: 20px;
+    margin-left: 7%;
+    margin-right: 7%;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.logo{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    float: left;
+    z-index: 20;
+}
+
+.logo img{
+    width: 200px;
+    margin-right: 10px;
+    z-index: 230;
+}
+
+.nav_list{
+    display: flex;
+    align-items: center;
+    float: right;
+    
+}
+
+.nav_item{
+    margin: 0 8px;
+}
+
+.nav_link{
+    padding: 10px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+#login{
+    padding: 7px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border: 1px solid black;
+    border-radius: 25px;
+}
+/*
+    .faded-bg{
+        position: fixed;
+        top: 0;
+        left: 0;
+        background: rgba(0,0,0, 0.6);
+        z-index: 150;
+        width: 100%;
+        height: 100%;
+    }
+    */
+
+/* ------------------------------------ Mobile Application ------------------------------------ */
+
+@media (min-width: 1000px){
+    .mobile-dropdown{
+        display: none;   
+    }
+    
+    header{
+    padding-left: 3%;
+    padding-right: 3%;
+    flex-direction: column;
+        transition: 0.5s;
+    }
+}
+
+@media (max-width: 1000px){
+    header{
+        margin-left: 5%;
+        margin-right: 5%;
+        transition: 0.5s;
+    }
+    
+    .dropdown{
+        display: block;
+        align-content: center;
+        float: right;
+        cursor: pointer;
+        
+        appearance: none;
+        background: none;
+        outline: none;
+        border: none;
+        
+        position: relative;
+        z-index: 200;
+        
+    }
+    
+    .dropdown .bar, .dropdown:after, .dropdown:before{
+    content: '';
+   display: block;
+    width: 30px;
+    height: 5px;
+    margin: 0px 0px 5px 0px;
+    -webkit-transition: all 0.7s ease-in-out;
+    transition: all 0.7s ease-in-out;
+    background-color: black;
+    border-radius: 25px;
+        
+    overflow: hidden;
+}
+    
+    .dropdown.is-active:before {
+        transform: rotate(-405deg) translate(-6px, 6px) ;
+        background-color: #373B41;
+    }
+    
+       .dropdown.is-active:after {
+        transform: rotate(405deg) translate(-8px, -8px);
+        background-color: #373B41;
+        
+    }
+    
+    .dropdown.is-active .bar{
+        opacity: 0;
+        overflow: hidden;
+        background-color: #373B41;
+    }
+    
+.mobile-dropdown{
+    position: fixed;
+    top: 0;
+    left: 100%;
+    width: 90%;
+    min-height: 40%;
+    display: block; 
+    z-index: 199;
+    
+    
+    background-color: rgba(#F4F4F4);
+    border-color: 1px solid rgba (0, 0, 0);
+    border-radius: 25px;
+    
+    padding-top: 50px;
+    transition: 0.5s;
+    
+    overflow: hidden;
+}
+    
+.mobile-dropdown.is-active{
+    left: 70%;
+    transition: 0.5s;
+    
+    
+    /* shadow */
+    
+    box-shadow: 0px 8px 32px 0px rgba(0,0,0,0.16);
+    -webkit-box-shadow: 0px 8px 32px 0px rgba(0,0,0,0.16);
+    -moz-box-shadow: 0px 8px 32px 0px rgba(0,0,0,0.16);
+    
+    overflow: hidden;
+}
+
+    
+.mobile-dropdown li{
+    display: block;
+    text-align: center;
+    margin-bottom: 0px;
+    width: 100%;
+    max-width: 200px;
+    padding: 10px 0px;
+}
+
+.mobile-dropdown li a{
+    color: #373B41;
+}
+    
+.mobile-dropdown li a:hover{
+    color: #773BFF;
+    transition: 0.5s;
+
+}
+    
+.mobile-nav.is-active{
+    left: 0;
+}
+    
+    
+    .navbar{
+        padding: 0;
+    }
+
+    
+    .nav-link{
+        position: absolute;
+        width: 100%;
+        height: 100vh;
+        flex-direction: column;
+    }
+    
+    .nav_list {
+        display: block;
+        text-align: center;
+        margin-bottom: 16px;
+        width: fit-content;
+        padding: 12px 16px;
+        
+        position: fixed;
+        flex-direction: column;
+        align-items: flex-start;
+        transition: 0.5s;
+    }
+    
+    .nav_list .active{
+        left: 0;
+    }
+    
+    .nav{
+        margin 2rem 0;
+        display: none;
+    }
+    
+    
+    
+    .nav{
+        top: 0;
+        right: -100%;
+        width: 60%;
+        /*height: 100vh;*/
+        padding 24px 0;
+        z-index: 100;
+        transition: 0.5s;
+        border-radius: 0 0 0 50%;
+    }
+}
+
+/* ------------------------------------ Buttons ------------------------------------ */
+
