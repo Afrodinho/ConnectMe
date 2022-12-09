@@ -57,6 +57,14 @@ Has experience with:
 
 ### Nathan Patterson
 
+Senior Informatiom Technology and Buisness Minor
+Has experience with:
+-Web Developement
+-MySQL
+-3D Art 
+-Game Developement
+-Python
+
 ### Travis Wiley
 
 Senior (Information Techonology).
