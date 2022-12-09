@@ -1,62 +1,60 @@
 <!DOCTYPE html>
 
-<html lang="en">
-  <head>
+<html lang="en-US">
+    <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" type="text/css" href="/minigames/css/NavBar.css">
-        <link rel="stylesheet" type="text/css" href="/minigames/css/dashboard.css">
+        <link rel="stylesheet" type="text/css" href="/NavBar.css">
+        <link rel="stylesheet" type="text/css" href="/dashboard.css">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Icons+Round">
-        <title>Minigames</title>
-</head>
-    
+        
+        <title>Icebreaker</title>
+    </head>
     <body>
         
+        <section class="base">
       <div class="dashboard">
           
+          <div class="dash-nav">
+              
           
           <section class="navi">
               
              <div class="logo">
                   
-                <a href="index.html"><img src = "/minigames/_images/ConnectMe_DarkModeV3.png" alt=""></a>
+                <a href="/index.php"><img src = "/ConnectMe_DarkModeV3.png" alt=""></a>
               
               </div>
         
          
               <div class="links">
                   
-              <!--<a href="dashboard.html" class="link">Home</a><br>
-              <a href="inbox.html" class="link">Inbox</a><br>
-              <a href="meetings.html" class="link">Meetings</a><br>
-              <a href="icebreaker.html" class="link">IceBreaker</a><br>
-                  
-                  -->
-                  
-                  <a href="/dashboard.html" class="buttons">
+                  <a href="/dashboard.php" class="buttons">
                     <span class="material-icons-round">space_dashboard</span>
                       <h3>Dashboard</h3>
                   </a>
-                  <a href="404.html" class="buttons">
+                  <a href="/404.php" class="buttons">
                     <span class="material-icons-round">inbox</span>
                       <h3>Inbox</h3>
                   </a>
-                  <a href="/meetings.html" class="buttons"> 
+                  <a href="/404.php" class="buttons"> 
                     <span class="material-icons-round">groups</span>
                       <h3>Meetings</h3>
                   </a>
                   
-                  <a href="minigames.php" class="buttons">
+                  <a href="/minigames/minigames.php" class="buttons">
                     <span class="material-icons-round">videogame_asset</span>
-                      <h3>MiniGames</h3>
+                      <h3>IceBreaker</h3>
                   </a>
                   
-                  <a href="/settings.html" class="buttons">
+                  <a href="/settings.php" class="buttons">
                     <span class="material-icons-round">settings</span>
                       <h3>Settings</h3>
                   </a>
                   
-                  <a href="/index.html">
+                  <!-- Manually providing the logout redirect in the URL is likely not good practice.
+                        This was done due to time constraints but should be changed later on. -->
+                  <a href="/LoginPage.php?action=logout">
                     <span class="material-icons-round" class="buttons">logout</span>
                       <h3>Log Out</h3>
                   </a>
@@ -66,56 +64,73 @@
               
               
           </section>
-
-          <!-- NavBar for Mobile Dashboard -->
+              
+          </div>
+        
           
+          
+        
+          <!-- NavBar for Mobile Dashboard -->
           <div class="mob-dash">
           
               <section class="mob-navi">
-              
-                  <div class="logo">
-                  
-                      <a href="/index.html"><img src = "/minigames/_images/ConnectMe_DarkModeV3.png" alt=""></a>
-                  
-                  </div>
                   
                   
-                  <div class="links">
+             
                   
-                  <a href="/dashboard.html" class="buttons">
+                  <a href="/dashboard.php" class="buttons">
                     <span class="material-icons-round">space_dashboard</span>
-                      <h3>Dashboard</h3>
+     
                   </a>
-                  <a href="/404.html" class="buttons">
+                  <a href="/404.php" class="buttons">
                     <span class="material-icons-round">inbox</span>
-                      <h3>Inbox</h3>
+
                   </a>
-                  <a href="/meetings.html" class="buttons"> 
+                  <a href="/404.php" class="buttons"> 
                     <span class="material-icons-round">groups</span>
-                      <h3>Meetings</h3>
+         
                   </a>
                   
-                  <a href="minigames.php" class="buttons">
+                  <a href="/minigames/minigames.php" class="buttons">
                     <span class="material-icons-round">videogame_asset</span>
-                      <h3>Minigames</h3>
+       
                   </a>
                   
-                  <a href="/settings.html" class="buttons">
+                  <a href="/settings.php" class="buttons">
                     <span class="material-icons-round">settings</span>
-                      <h3>Settings</h3>
+
                   </a>
                   
-                  <a href="/index.html">
+                  <a href="/LoginPage.php?action=logout" class="buttons">
                     <span class="material-icons-round" class="buttons">logout</span>
-                      <h3>Log Out</h3>
+
                   </a>
                   
                   
-              </div>
+  
               
               </section>
           
           </div>
+          <script src="script.js"></script>
+          
+                 <!-- THESE ARE THE BUTTONS  -->
+          <main>
+                <div class="main-dash">
+            
+            <div for="s1" class="container">
+                <div class="noti">
+                    <h2><a href='minigames/mp/meeting-prediction.php'>Meeting Prediction</a></h2>
+                </div>
+            </div>
+       
+            <div for="s1" class="container">
+                <div class="noti">
+                    <h2><a href='minigames/wyr/would-you-rather.php'>Would You Rather?</a></h2>
+                </div>
+            </div>
+
+            
        <!-- BUTTON FUNCTIONALITY-->
        <?php 
         if(key_exists('MP', $_POST)) {

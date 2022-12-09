@@ -1,62 +1,60 @@
 <!DOCTYPE html>
 
-<html lang="en">
-  <head>
+<html lang="en-US">
+    <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" type="text/css" href="/minigames/wyr/css/NavBar.css">
-        <link rel="stylesheet" type="text/css" href="/mingames/wyr/css/dashboard.css">
+        <link rel="stylesheet" type="text/css" href="/NavBar.css">
+        <link rel="stylesheet" type="text/css" href="/dashboard.css">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Icons+Round">
+        
         <title>Would You Rather?</title>
-</head>
-    
+    </head>
     <body>
         
+        <section class="base">
       <div class="dashboard">
           
+          <div class="dash-nav">
+              
           
           <section class="navi">
               
              <div class="logo">
                   
-                <a href="/index.html"><img src = "/minigames/images/ConnectMe_DarkModeV3.png" alt=""></a>
+                <a href="/index.php"><img src = "/ConnectMe_DarkModeV3.png" alt=""></a>
               
               </div>
         
          
               <div class="links">
                   
-              <!--<a href="dashboard.html" class="link">Home</a><br>
-              <a href="inbox.html" class="link">Inbox</a><br>
-              <a href="meetings.html" class="link">Meetings</a><br>
-              <a href="icebreaker.html" class="link">IceBreaker</a><br>
-                  
-                  -->
-                  
-                  <a href="/dashboard.html" class="buttons">
+                  <a href="/dashboard.php" class="buttons">
                     <span class="material-icons-round">space_dashboard</span>
                       <h3>Dashboard</h3>
                   </a>
-                  <a href="/404.html" class="buttons">
+                  <a href="/404.php" class="buttons">
                     <span class="material-icons-round">inbox</span>
                       <h3>Inbox</h3>
                   </a>
-                  <a href="/meetings.html" class="buttons"> 
+                  <a href="/404.php" class="buttons"> 
                     <span class="material-icons-round">groups</span>
                       <h3>Meetings</h3>
                   </a>
                   
                   <a href="/minigames/minigames.php" class="buttons">
                     <span class="material-icons-round">videogame_asset</span>
-                      <h3>MiniGames</h3>
+                      <h3>IceBreaker</h3>
                   </a>
                   
-                  <a href="/settings.html" class="buttons">
+                  <a href="/settings.php" class="buttons">
                     <span class="material-icons-round">settings</span>
                       <h3>Settings</h3>
                   </a>
                   
-                  <a href="/index.html">
+                  <!-- Manually providing the logout redirect in the URL is likely not good practice.
+                        This was done due to time constraints but should be changed later on. -->
+                  <a href="/LoginPage.php?action=logout">
                     <span class="material-icons-round" class="buttons">logout</span>
                       <h3>Log Out</h3>
                   </a>
@@ -66,56 +64,56 @@
               
               
           </section>
-
-          <!-- NavBar for Mobile Dashboard -->
+              
+          </div>
+        
           
+          
+        
+          <!-- NavBar for Mobile Dashboard -->
           <div class="mob-dash">
           
               <section class="mob-navi">
-              
-                  <div class="logo">
-                  
-                      <a href="/index.html"><img src = "images/ConnectMe_DarkModeV3.png" alt=""></a>
-                  
-                  </div>
                   
                   
-                  <div class="links">
+             
                   
-                  <a href="/dashboard.html" class="buttons">
+                  <a href="/dashboard.php" class="buttons">
                     <span class="material-icons-round">space_dashboard</span>
-                      <h3>Dashboard</h3>
+     
                   </a>
-                  <a href="/404.html" class="buttons">
+                  <a href="/404.php" class="buttons">
                     <span class="material-icons-round">inbox</span>
-                      <h3>Inbox</h3>
+
                   </a>
-                  <a href="/meetings.html" class="buttons"> 
+                  <a href="/404.php" class="buttons"> 
                     <span class="material-icons-round">groups</span>
-                      <h3>Meetings</h3>
+         
                   </a>
                   
-                  <a href="minigames.php" class="buttons">
+                  <a href="/minigames/minigames.php" class="buttons">
                     <span class="material-icons-round">videogame_asset</span>
-                      <h3>Minigames</h3>
+       
                   </a>
                   
-                  <a href="/settings.html" class="buttons">
+                  <a href="/settings.php" class="buttons">
                     <span class="material-icons-round">settings</span>
-                      <h3>Settings</h3>
+
                   </a>
                   
-                  <a href="/index.html">
+                  <a href="/LoginPage.php?action=logout" class="buttons">
                     <span class="material-icons-round" class="buttons">logout</span>
-                      <h3>Log Out</h3>
+
                   </a>
                   
                   
-              </div>
+  
               
               </section>
           
           </div>
+          <script src="script.js"></script>
+          
 <?php
     session_start();
     if(empty($_SESSION)) 
@@ -150,7 +148,7 @@
 
     <!-- BUTTONS CODE FOR THE GAME -->
     <form action="would-you-rather.php" method="post">
-        <label for ="WYR">Click Here to start game?</label>
+        <label for ="WYR">Click Here to start game:</label>
             <input type= "Submit" name="Begin" value="Start Game">
     </form>
 
@@ -181,7 +179,7 @@ function generate()
     echo '<h2>Here is Your Scenario</h2>';
     echo '<h3>Would You Rather...</h3>';
     $file= "wyr.txt";
-    wyr =file($file);
+    $wyr =file($file);
     srand((double)microtime()*1000000);
     $randomWYR = rand(0, count($wyr)-1);
     echo $wyr[$randomWYR];
@@ -190,11 +188,19 @@ function generate()
     
     <p>Select Your Answer:</p>
 <form>
+<style>
+  table.tb { width:300px; border-collapse: collapse; }
+  .tb th, .tb td { border: solid 1px #777; padding: 5px;  }
+  .tb th { background: #3630a3; color:white; }
+</style>
+    
+    <td>
     <input type ="radio" id="A" name="OptionA" value="A">
     <label for="A">A</label><br>
     <input type ="radio" id="B" name="OptionB" value="B">
     <label for="B">B</label><br>
-    <form action="WouldYouRather.php" method="post">
+    </td>
+    <form action="would-you-rather.php" method="post">
         <input type= "submit" name ="submit" value="Submit">
     </form>
 </form>

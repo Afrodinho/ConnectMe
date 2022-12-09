@@ -1,0 +1,235 @@
+body{
+    overflow: hidden;
+    animation: none;
+}
+
+.logo{ 
+    padding-top: 50px;
+    transition: 1s;
+}
+
+.dashboard{
+    width: 275px;
+    height: 1000px;
+    background-color: #303338;
+    z-index: -10;
+    top: 0;
+    padding-top: 30px;
+    padding-left: 30px;
+    display: grid;
+    grid-gap: 5rem;
+    grid-template-columns: 15rem auto 25rem;
+    transition: 0.5s;
+}
+
+.links{
+    padding-top: 100px;
+    transition: 0.5s;
+
+}
+
+.link{
+    color: #f4f4f4;
+    padding: 0;
+    position: relative;
+    display: block;
+    font-size: 30px;
+
+    z-index: 1;
+}
+
+.buttons{
+    padding: 20px;
+}
+
+.dashboard .navi a{
+    display: flex;
+    margin-bottom: 0px;
+     transition: 0.3s;   
+}
+
+.dashboard .navi a:last-child{
+    position: absolute;
+    bottom: 20px;
+}
+
+.dashboard .navi a:hover{
+     margin-left: 1rem;
+    transition: 0.3s;   
+}
+
+.dashboard .navi a.current:link{
+    background-color: red;
+}
+
+@media (min-width: 1000px){
+    .mob-dash{
+        top: 0%;
+        width: 100%;
+        height: 0px;
+        background-color: #303338;
+        z-index: -10;
+        top: 0;
+        transition: 0.5s;
+        position: absolute;
+        align-content: center;
+        transition: 0.5s;
+    }
+    .mob-dash:after{
+        display: none;
+    }
+}
+
+@media (max-width: 1000px){
+    .dashboard{
+        width: 0%;
+        padding-left: 0%;
+        transition: 0.5s;
+    }
+    
+    .dashboard:after{
+        display:none;
+    }
+    .links{
+        margin-left: -200px;
+        transition: 0.5s;
+    }
+    
+    .logo{
+        margin-left: -1000px;
+        transition: 1s;
+    }
+    
+    .mob-dash{
+        top: 0%;
+        width: 100%;
+        height: 100px;
+        background-color: #303338;
+        z-index: -10;
+        top: 0;
+        transition: 0.5s;
+        position: absolute;
+        align-content: center;
+        
+    }
+    
+}
+
+main{
+}
+
+
+
+
+.main-dash{
+    width: 100%;
+    height: 1;
+    background-color: #FCFCFC;
+    top: 0;
+    left: 275px;
+    transition: 0.5s;
+    z-index: -10;
+    display: block;
+    position: absolute;
+}
+
+.noti{
+    width: 20%;
+    height: 380px;
+    background-color: white;
+    display: grid;
+    position: absolute;
+    z-index: -10;
+    transition: 0.5s;
+    margin-left: 3%;
+    margin-top: 5%;
+    border-radius: 20px;
+    
+    
+    
+    box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.16);
+    
+    
+}
+
+.pfp-card{
+    width: 20%;
+    height: 425px;
+    background-color: white;
+    display: grid;
+    position: absolute;
+    margin-left: 3%;
+    margin-top: 27.5%;
+    border-radius: 20px;
+    
+      box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.16);
+}
+
+.tasks{
+    width: 25%;
+    height: 450px;
+    background-color: white;
+    display: grid;
+    position: absolute;
+    margin-left: 26%;
+    margin-top: 5%;
+    border-radius: 20px;
+    
+      box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.16);
+}
+
+.members{
+     width: 25%;
+    height: 360px;
+    background-color: white;
+    display: grid;
+    position: absolute;
+    margin-left: 26%;
+    margin-top: 30.9%;
+    border-radius: 20px;
+    
+      box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.16);
+}
+
+.calendar{
+    width: 29%;
+    height: 480px;
+    background-color: white;
+    display: grid;
+    position: absolute;
+    border-radius: 20px;
+    
+    margin-left: 54%;
+    margin-top: 5%;
+    
+      box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.16);
+}
+
+.progress{
+    width: 29%;
+    height: 320px;
+    background-color: white;
+    
+    
+    display: grid;
+    position: absolute;
+    
+    border-radius: 20px;
+    
+      box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.16);
+    
+    margin-left: 54%;
+    margin-top: 33%;
+    
+}
+
+
+h3{
+    color: #F4F4F4;
+    font-weight: 500;
+}
+
+.material-icons-round{
+    color: #F4F4F4;
+    padding-right: 20px;
+}
