@@ -8,7 +8,7 @@ _!!README In Progress!!_
 
 Senior (Information Technology).
 Has experience with:
-- web languages (HTML, JavaScript, CSS)
+- Web languages (HTML, JavaScript, CSS)
 - C#
 - Python
 - Java
