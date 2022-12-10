@@ -124,7 +124,7 @@
                 </div>
             </div>
        
-            <div for="s1" class="container">
+            <div for="s2" class="container">
                 <div class="noti">
                     <h2><a href='minigames/wyr/would-you-rather.php'>Would You Rather?</a></h2>
                 </div>

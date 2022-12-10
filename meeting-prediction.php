@@ -113,24 +113,33 @@
           
           </div>
           <script src="script.js"></script>
+
 <?php
     session_start();
     if(empty($_SESSION)) 
 ?>
 
-  
-<!-- THIS IS JUST DISPLAYING DATE AND TIME -->
-<?php
-    //print_r($_GET);
-    //print_r($_POST);
-    //echo session_id();
 
-    date_default_timezone_set('America/Chicago');
-    echo '<p>' .date('l jS \of F Y h:i:s A'). '</p>';
-?>
+<!-- THIS IS JUST DISPLAYING DATE AND TIME -->
+
+<main>
+      <div class="main-dash">    
+        <div for="s1" class="container">
+            <div class="noti">
+              <?php
+                //print_r($_GET);
+                //print_r($_POST);
+                //echo session_id();
+
+                date_default_timezone_set('America/Chicago');
+                echo '<h2>'.date('l jS \of F Y h:i:s A'). '</h2>';
+              ?>  
+            </div>
+      </div>
+</main>
+
 
 <!-- This is title of page and table... I don't know if this is necessary. -->
-<html>
 
 <body>
 
@@ -139,13 +148,34 @@
             <th></th>
         </tr>
         <tr></tr>
-
     </table>
     <br/> -->
 
+    <?php
+
+
+// THIS IS THE RANDOM GENERATOR CODE FOR THE GAME
+
+function generate()
+{
+    echo '<h2>Here is Your Meeting Prediction:</h2>';
+    $file= "mp.txt";
+    $mp =file($file);
+    srand((double)microtime()*1000000);
+    $randomMP = rand(0, count($mp)-1);
+    echo $mp[$randomMP];
+}
+
+// THIS RESETS THE GAME AND PAGE
+function reset_game()
+{
+    echo '<h2>Page Has Been Reset!</h2>';
+}
+?>
+
     <!-- BUTTONS CODE FOR THE GAME -->
     <form action="meeting-prediction.php" method="post">
-        <label for ="Prediction">How Will Your Meeting Go?</label>
+        <label for ="Prediction"></label>
             <input type= "Submit" name="Generate" value="Generate Prediction">
     </form>
 
@@ -167,31 +197,7 @@
         }
 ?>
 
-<?php
 
-
-// THIS IS THE RANDOM GENERATOR CODE FOR THE GAME
-function generate()
-{
-    echo '<h3>Here is Your Meeting Prediction:</h3>';
-    $file= "mp.txt";
-    $mp =file($file);
-    srand((double)microtime()*1000000);
-    $randomMP = rand(0, count($mp)-1);
-    echo $mp[$randomMP];
-}
-
-// THIS RESETS THE GAME AND PAGE
-function reset_game()
-{
-    echo '<h3>Page Has Been Reset!</h3>';
-}
-?>
 
 </body>
 </html>
-
-    
-
-            
-

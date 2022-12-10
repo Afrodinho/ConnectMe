@@ -120,15 +120,21 @@
 ?>
 
   
-<!-- THIS IS JUST DISPLAYING DATE AND TIME -->
-<?php
-    //print_r($_GET);
-    //print_r($_POST);
-    //echo session_id();
+<main>
+      <div class="main-dash">    
+        <div for="s1" class="container">
+            <div class="noti">
+              <?php
+                //print_r($_GET);
+                //print_r($_POST);
+                //echo session_id();
 
-    date_default_timezone_set('America/Chicago');
-    echo '<p>' .date('l jS \of F Y h:i:s A'). '</p>';
-?>
+                date_default_timezone_set('America/Chicago');
+                echo '<h2>'.date('l jS \of F Y h:i:s A'). '</h2>';
+              ?>  
+            </div>
+      </div>
+</main>
 
 <!-- This is title of page and table... I don't know if this is necessary. -->
 <html>
@@ -177,7 +183,7 @@
 function generate()
 {
     echo '<h2>Here is Your Scenario</h2>';
-    echo '<h3>Would You Rather...</h3>';
+    echo '<h2>Would You Rather...</h2>';
     $file= "wyr.txt";
     $wyr =file($file);
     srand((double)microtime()*1000000);
@@ -186,24 +192,25 @@ function generate()
 
     ?>
     
-    <p>Select Your Answer:</p>
+    <h2>Select Your Answer:</h2>
 <form>
 <style>
   table.tb { width:300px; border-collapse: collapse; }
-  .tb th, .tb td { border: solid 1px #777; padding: 5px;  }
+  .tb th, .tb td { border: solid 1px #777; padding: 20px;  }
   .tb th { background: #3630a3; color:white; }
 </style>
-    
-    <td>
+<table>
+    <th>
     <input type ="radio" id="A" name="OptionA" value="A">
     <label for="A">A</label><br>
     <input type ="radio" id="B" name="OptionB" value="B">
     <label for="B">B</label><br>
-    </td>
+    </th>
     <form action="would-you-rather.php" method="post">
         <input type= "submit" name ="submit" value="Submit">
     </form>
 </form>
+</table>
 <?php
 }
 
