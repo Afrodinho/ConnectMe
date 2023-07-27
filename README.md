@@ -44,11 +44,13 @@ Has experience with:
 
 Senior (Information Technology) - Minor in Sociology.
 Has experience with:
-- Web languages (HTML, JavaScript, CSS, PHp)
+- Web languages (HTML, JavaScript, CSS, PHP)
 - Python
 - C#
 - Game Development
 - MySQL
+- MongoDB
+- Jira
 - Cyber Security
 - Network Administration
 - Digital Media
