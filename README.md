@@ -42,7 +42,7 @@ Has experience with:
 
 ### Kaden Marshall
 
-Senior (Information Technology).
+Senior (Information Technology) - Minor in Sociology.
 Has experience with:
 - Web languages (HTML, JavaScript, CSS, PHp)
 - Python
