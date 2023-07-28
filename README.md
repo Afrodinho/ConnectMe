@@ -1,4 +1,4 @@
-_!!README In Progress!!_
+Link to Presentation: https://docs.google.com/presentation/d/1KEMTKc28zZ7KYhDQIBaP9VitjsjyAA0C4cXnSOVoJUw/edit?usp=sharing
 # ConnectMe
 
 
